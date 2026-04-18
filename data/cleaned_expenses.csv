@@ -1,0 +1,1013 @@
+date,category,amount,payment_method,description,year,month,month_name,weekday,category_budget
+2025-10-30,Shopping,5508.75,Upi,Online Shopping,2025,10,Oct,Thursday,9000
+2025-12-05,Groceries,1999.0,Credit Card,Vegetables,2025,12,Dec,Friday,10000
+2025-08-03,Education,2921.0,Credit Card,Stationery,2025,8,Aug,Sunday,8000
+2025-01-25,Entertainment,1312.0,Credit Card,Subscription,2025,1,Jan,Saturday,7000
+2025-12-31,Food,146.0,Cash,Restaurant,2025,12,Dec,Wednesday,12000
+2025-10-09,Food,1080.0,Upi,Snacks,2025,10,Oct,Thursday,12000
+2025-01-07,Food,236.0,Upi,Cafe,2025,1,Jan,Tuesday,12000
+2025-11-11,Groceries,926.0,Debit Card,Essentials,2025,11,Nov,Tuesday,10000
+2025-04-13,Entertainment,1795.2,Credit Card,Game,2025,4,Apr,Sunday,7000
+2025-04-18,Education,5717.0,Debit Card,Exam Fee,2025,4,Apr,Friday,8000
+2025-07-02,Food,1082.0,Cash,Restaurant,2025,7,Jul,Wednesday,12000
+2025-01-04,Groceries,1572.0,Credit Card,Vegetables,2025,1,Jan,Saturday,10000
+2025-07-29,Groceries,215.0,Upi,Supermarket,2025,7,Jul,Tuesday,10000
+2025-11-07,Travel,1198.8,Debit Card,Bus,2025,11,Nov,Friday,10000
+2025-09-04,Travel,1954.0,Upi,Bus,2025,9,Sep,Thursday,10000
+2025-02-08,Travel,963.0,Upi,Cab,2025,2,Feb,Saturday,10000
+2025-11-14,Rent,14436.0,Upi,Room Rent,2025,11,Nov,Friday,14000
+2025-09-23,Entertainment,1120.0,Upi,Game,2025,9,Sep,Tuesday,7000
+2025-03-06,Utilities,2550.0,Upi,Gas Bill,2025,3,Mar,Thursday,6000
+2025-06-07,Rent,8033.0,Upi,PG Rent,2025,6,Jun,Saturday,14000
+2025-10-20,Healthcare,731.0,Cash,Checkup,2025,10,Oct,Monday,5000
+2025-03-14,Food,498.0,Upi,Dinner,2025,3,Mar,Friday,12000
+2025-05-20,Rent,7828.0,Debit Card,Room Rent,2025,5,May,Tuesday,14000
+2025-07-17,Shopping,1106.0,Debit Card,Shoes,2025,7,Jul,Thursday,9000
+2025-12-10,Utilities,510.0,Net Banking,Water Bill,2025,12,Dec,Wednesday,6000
+2025-06-02,Recharge,810.0,Net Banking,DTH Recharge,2025,6,Jun,Monday,2000
+2025-03-13,Travel,1483.0,Credit Card,Fuel,2025,3,Mar,Thursday,10000
+2025-11-26,Entertainment,425.0,Upi,Movie,2025,11,Nov,Wednesday,7000
+2025-08-29,Entertainment,2111.0,Upi,Movie,2025,8,Aug,Friday,7000
+2025-02-23,Food,1170.0,Upi,Restaurant,2025,2,Feb,Sunday,12000
+2025-04-09,Entertainment,1491.6,Net Banking,Movie,2025,4,Apr,Wednesday,7000
+2025-06-27,Food,949.0,Credit Card,Lunch,2025,6,Jun,Friday,12000
+2025-06-09,Food,880.0,Upi,Restaurant,2025,6,Jun,Monday,12000
+2025-11-25,Groceries,779.0,Credit Card,Milk,2025,11,Nov,Tuesday,10000
+2025-09-24,Groceries,1840.0,Upi,Essentials,2025,9,Sep,Wednesday,10000
+2025-01-29,Recharge,748.0,Cash,Data Pack,2025,1,Jan,Wednesday,2000
+2025-11-28,Rent,6954.0,Upi,Room Rent,2025,11,Nov,Friday,14000
+2025-02-07,Food,427.0,Credit Card,Cafe,2025,2,Feb,Friday,12000
+2025-02-06,Education,3887.0,Cash,Stationery,2025,2,Feb,Thursday,8000
+2025-03-22,Utilities,1637.0,Upi,Gas Bill,2025,3,Mar,Saturday,6000
+2025-11-14,Food,448.0,Net Banking,Lunch,2025,11,Nov,Friday,12000
+2025-02-25,Utilities,2389.0,Upi,Electricity Bill,2025,2,Feb,Tuesday,6000
+2025-08-25,Food,315.0,Debit Card,Dinner,2025,8,Aug,Monday,12000
+2025-12-19,Groceries,1904.0,Upi,Vegetables,2025,12,Dec,Friday,10000
+2025-12-11,Travel,2519.1,Credit Card,Bus,2025,12,Dec,Thursday,10000
+2025-07-07,Healthcare,2354.0,Debit Card,Medicine,2025,7,Jul,Monday,5000
+2025-11-10,Shopping,3885.0,Cash,Accessories,2025,11,Nov,Monday,9000
+2025-06-09,Entertainment,1774.0,Upi,Game,2025,6,Jun,Monday,7000
+2025-09-15,Entertainment,788.0,Upi,Subscription,2025,9,Sep,Monday,7000
+2025-08-12,Travel,1698.0,Credit Card,Cab,2025,8,Aug,Tuesday,10000
+2025-08-21,Groceries,2264.0,Cash,Milk,2025,8,Aug,Thursday,10000
+2025-07-07,Recharge,547.0,Upi,DTH Recharge,2025,7,Jul,Monday,2000
+2025-11-22,Groceries,785.0,Upi,Milk,2025,11,Nov,Saturday,10000
+2025-11-15,Groceries,1635.0,Credit Card,Milk,2025,11,Nov,Saturday,10000
+2025-02-06,Entertainment,1188.0,Debit Card,Game,2025,2,Feb,Thursday,7000
+2025-12-18,Groceries,683.0,Cash,Essentials,2025,12,Dec,Thursday,10000
+2025-07-11,Food,1140.0,Debit Card,Restaurant,2025,7,Jul,Friday,12000
+2025-07-12,Travel,171.0,Credit Card,Bus,2025,7,Jul,Saturday,10000
+2025-07-29,Food,405.0,Net Banking,Snacks,2025,7,Jul,Tuesday,12000
+2025-07-23,Shopping,4047.0,Credit Card,Online Shopping,2025,7,Jul,Wednesday,9000
+2025-01-07,Shopping,328.0,Cash,Shoes,2025,1,Jan,Tuesday,9000
+2025-03-20,Rent,9356.0,Net Banking,Room Rent,2025,3,Mar,Thursday,14000
+2025-02-08,Recharge,370.0,Debit Card,Mobile Recharge,2025,2,Feb,Saturday,2000
+2025-03-16,Shopping,2123.0,Cash,Shoes,2025,3,Mar,Sunday,9000
+2025-03-25,Rent,9093.0,Upi,Room Rent,2025,3,Mar,Tuesday,14000
+2025-12-03,Entertainment,1425.6,Net Banking,Game,2025,12,Dec,Wednesday,7000
+2025-12-23,Food,183.0,Upi,Restaurant,2025,12,Dec,Tuesday,12000
+2025-09-14,Recharge,669.0,Debit Card,DTH Recharge,2025,9,Sep,Sunday,2000
+2025-06-11,Food,1108.0,Credit Card,Dinner,2025,6,Jun,Wednesday,12000
+2025-10-01,Groceries,1494.0,Upi,Essentials,2025,10,Oct,Wednesday,10000
+2025-03-13,Recharge,159.0,Upi,Mobile Recharge,2025,3,Mar,Thursday,2000
+2025-04-03,Travel,669.0,Debit Card,Train,2025,4,Apr,Thursday,10000
+2025-07-18,Food,486.0,Debit Card,Dinner,2025,7,Jul,Friday,12000
+2025-06-30,Recharge,635.0,Net Banking,DTH Recharge,2025,6,Jun,Monday,2000
+2025-02-15,Education,1026.0,Upi,Course Fee,2025,2,Feb,Saturday,8000
+2025-09-30,Education,4465.0,Credit Card,Stationery,2025,9,Sep,Tuesday,8000
+2025-01-09,Recharge,777.0,Upi,DTH Recharge,2025,1,Jan,Thursday,2000
+2025-08-02,Food,1113.0,Upi,Cafe,2025,8,Aug,Saturday,12000
+2025-12-10,Shopping,1103.75,Upi,Clothes,2025,12,Dec,Wednesday,9000
+2025-07-28,Food,171.0,Upi,Cafe,2025,7,Jul,Monday,12000
+2025-04-05,Groceries,365.0,Upi,Vegetables,2025,4,Apr,Saturday,10000
+2025-08-05,Healthcare,3148.0,Net Banking,Medicine,2025,8,Aug,Tuesday,5000
+2025-09-24,Shopping,513.0,Credit Card,Clothes,2025,9,Sep,Wednesday,9000
+2025-03-17,Food,988.0,Credit Card,Dinner,2025,3,Mar,Monday,12000
+2025-05-28,Shopping,3020.0,Upi,Online Shopping,2025,5,May,Wednesday,9000
+2025-08-30,Shopping,301.0,Upi,Clothes,2025,8,Aug,Saturday,9000
+2025-03-18,Education,1417.0,Upi,Course Fee,2025,3,Mar,Tuesday,8000
+2025-12-25,Healthcare,389.0,Credit Card,Checkup,2025,12,Dec,Thursday,5000
+2025-05-23,Groceries,305.0,Upi,Vegetables,2025,5,May,Friday,10000
+2025-12-26,Utilities,2494.0,Upi,Internet Bill,2025,12,Dec,Friday,6000
+2025-01-09,Food,873.0,Credit Card,Restaurant,2025,1,Jan,Thursday,12000
+2025-07-23,Education,5883.0,Net Banking,Stationery,2025,7,Jul,Wednesday,8000
+2025-11-14,Recharge,183.0,Upi,DTH Recharge,2025,11,Nov,Friday,2000
+2025-01-07,Entertainment,658.0,Debit Card,Game,2025,1,Jan,Tuesday,7000
+2025-11-10,Recharge,121.0,Upi,DTH Recharge,2025,11,Nov,Monday,2000
+2025-05-07,Utilities,1308.0,Upi,Water Bill,2025,5,May,Wednesday,6000
+2025-01-12,Entertainment,2334.0,Credit Card,Movie,2025,1,Jan,Sunday,7000
+2025-10-28,Shopping,1957.5,Upi,Accessories,2025,10,Oct,Tuesday,9000
+2025-08-26,Food,784.0,Upi,Snacks,2025,8,Aug,Tuesday,12000
+2025-07-02,Food,387.0,Upi,Cafe,2025,7,Jul,Wednesday,12000
+2025-07-30,Food,761.0,Upi,Restaurant,2025,7,Jul,Wednesday,12000
+2025-02-28,Healthcare,3271.0,Upi,Tests,2025,2,Feb,Friday,5000
+2025-04-03,Shopping,652.0,Debit Card,Clothes,2025,4,Apr,Thursday,9000
+2025-12-16,Utilities,2248.0,Credit Card,Electricity Bill,2025,12,Dec,Tuesday,6000
+2025-01-24,Groceries,603.0,Credit Card,Supermarket,2025,1,Jan,Friday,10000
+2025-12-30,Travel,3684.15,Upi,Train,2025,12,Dec,Tuesday,10000
+2025-06-26,Shopping,1573.0,Credit Card,Online Shopping,2025,6,Jun,Thursday,9000
+2025-08-16,Recharge,677.0,Credit Card,Data Pack,2025,8,Aug,Saturday,2000
+2025-10-22,Travel,904.0,Credit Card,Fuel,2025,10,Oct,Wednesday,10000
+2025-09-25,Food,629.0,Credit Card,Restaurant,2025,9,Sep,Thursday,12000
+2025-12-21,Rent,9591.0,Upi,PG Rent,2025,12,Dec,Sunday,14000
+2025-03-28,Food,1039.0,Upi,Cafe,2025,3,Mar,Friday,12000
+2025-10-20,Groceries,752.0,Upi,Supermarket,2025,10,Oct,Monday,10000
+2025-04-21,Recharge,113.0,Upi,Mobile Recharge,2025,4,Apr,Monday,2000
+2025-03-25,Healthcare,429.0,Cash,Medicine,2025,3,Mar,Tuesday,5000
+2025-12-11,Groceries,2240.0,Upi,Essentials,2025,12,Dec,Thursday,10000
+2025-08-17,Recharge,360.0,Upi,Mobile Recharge,2025,8,Aug,Sunday,2000
+2025-10-30,Travel,2484.0,Upi,Bus,2025,10,Oct,Thursday,10000
+2025-04-28,Groceries,469.0,Upi,Vegetables,2025,4,Apr,Monday,10000
+2025-09-23,Entertainment,1061.0,Upi,Movie,2025,9,Sep,Tuesday,7000
+2025-10-03,Recharge,875.0,Credit Card,Mobile Recharge,2025,10,Oct,Friday,2000
+2025-11-09,Groceries,775.0,Upi,Supermarket,2025,11,Nov,Sunday,10000
+2025-05-01,Shopping,3478.0,Credit Card,Clothes,2025,5,May,Thursday,9000
+2025-07-23,Food,264.0,Debit Card,Dinner,2025,7,Jul,Wednesday,12000
+2025-11-08,Travel,3176.55,Debit Card,Flight,2025,11,Nov,Saturday,10000
+2025-09-08,Shopping,1256.0,Cash,Shoes,2025,9,Sep,Monday,9000
+2025-05-10,Recharge,610.0,Upi,Data Pack,2025,5,May,Saturday,2000
+2025-10-12,Groceries,2366.0,Upi,Vegetables,2025,10,Oct,Sunday,10000
+2025-09-02,Food,1182.0,Upi,Restaurant,2025,9,Sep,Tuesday,12000
+2025-06-28,Entertainment,1429.0,Credit Card,Game,2025,6,Jun,Saturday,7000
+2025-06-30,Shopping,2589.0,Net Banking,Accessories,2025,6,Jun,Monday,9000
+2025-05-06,Travel,494.1,Credit Card,Cab,2025,5,May,Tuesday,10000
+2025-02-08,Food,594.0,Upi,Dinner,2025,2,Feb,Saturday,12000
+2025-10-21,Shopping,5278.75,Upi,Shoes,2025,10,Oct,Tuesday,9000
+2025-10-28,Groceries,507.0,Credit Card,Milk,2025,10,Oct,Tuesday,10000
+2025-01-08,Shopping,2333.0,Upi,Accessories,2025,1,Jan,Wednesday,9000
+2025-09-21,Entertainment,1581.0,Debit Card,Concert,2025,9,Sep,Sunday,7000
+2025-06-24,Education,4373.0,Credit Card,Exam Fee,2025,6,Jun,Tuesday,8000
+2025-08-06,Shopping,2774.0,Credit Card,Shoes,2025,8,Aug,Wednesday,9000
+2025-05-25,Groceries,502.0,Credit Card,Supermarket,2025,5,May,Sunday,10000
+2025-11-24,Groceries,544.0,Credit Card,Vegetables,2025,11,Nov,Monday,10000
+2025-01-01,Travel,1460.0,Credit Card,Fuel,2025,1,Jan,Wednesday,10000
+2025-10-31,Utilities,1592.0,Credit Card,Water Bill,2025,10,Oct,Friday,6000
+2025-08-08,Rent,10033.0,Net Banking,PG Rent,2025,8,Aug,Friday,14000
+2025-03-04,Rent,11704.0,Debit Card,House Rent,2025,3,Mar,Tuesday,14000
+2025-06-25,Food,880.0,Debit Card,Snacks,2025,6,Jun,Wednesday,12000
+2025-06-08,Entertainment,688.0,Cash,Concert,2025,6,Jun,Sunday,7000
+2025-04-12,Utilities,993.0,Net Banking,Internet Bill,2025,4,Apr,Saturday,6000
+2025-03-23,Food,496.0,Debit Card,Lunch,2025,3,Mar,Sunday,12000
+2025-12-31,Rent,11450.0,Upi,PG Rent,2025,12,Dec,Wednesday,14000
+2025-11-06,Groceries,654.0,Cash,Essentials,2025,11,Nov,Thursday,10000
+2025-03-06,Travel,860.0,Upi,Bus,2025,3,Mar,Thursday,10000
+2025-11-12,Food,704.0,Upi,Restaurant,2025,11,Nov,Wednesday,12000
+2025-08-12,Utilities,2838.0,Upi,Water Bill,2025,8,Aug,Tuesday,6000
+2025-09-24,Groceries,1161.0,Upi,Essentials,2025,9,Sep,Wednesday,10000
+2025-03-26,Travel,2525.0,Upi,Flight,2025,3,Mar,Wednesday,10000
+2025-04-27,Healthcare,3592.0,Upi,Clinic Visit,2025,4,Apr,Sunday,5000
+2025-05-13,Recharge,403.0,Credit Card,DTH Recharge,2025,5,May,Tuesday,2000
+2025-02-12,Travel,1093.0,Upi,Train,2025,2,Feb,Wednesday,10000
+2025-12-30,Education,5486.0,Upi,Books,2025,12,Dec,Tuesday,8000
+2025-04-17,Shopping,1314.0,Debit Card,Clothes,2025,4,Apr,Thursday,9000
+2025-05-04,Healthcare,2746.0,Upi,Tests,2025,5,May,Sunday,5000
+2025-02-20,Healthcare,623.0,Net Banking,Checkup,2025,2,Feb,Thursday,5000
+2025-10-02,Entertainment,2025.0,Upi,Game,2025,10,Oct,Thursday,7000
+2025-02-21,Food,593.0,Upi,Dinner,2025,2,Feb,Friday,12000
+2025-10-18,Groceries,1871.0,Upi,Supermarket,2025,10,Oct,Saturday,10000
+2025-06-07,Shopping,1981.0,Upi,Clothes,2025,6,Jun,Saturday,9000
+2025-05-12,Travel,3087.45,Upi,Bus,2025,5,May,Monday,10000
+2025-09-20,Food,1162.0,Upi,Restaurant,2025,9,Sep,Saturday,12000
+2025-10-25,Entertainment,1151.0,Net Banking,Game,2025,10,Oct,Saturday,7000
+2025-09-20,Healthcare,2145.0,Upi,Clinic Visit,2025,9,Sep,Saturday,5000
+2025-06-22,Food,658.0,Net Banking,Snacks,2025,6,Jun,Sunday,12000
+2025-08-02,Entertainment,1443.0,Upi,Movie,2025,8,Aug,Saturday,7000
+2025-09-28,Travel,159.0,Upi,Cab,2025,9,Sep,Sunday,10000
+2025-05-05,Healthcare,3029.0,Net Banking,Clinic Visit,2025,5,May,Monday,5000
+2025-02-18,Food,958.0,Debit Card,Cafe,2025,2,Feb,Tuesday,12000
+2025-06-01,Education,4183.0,Upi,Course Fee,2025,6,Jun,Sunday,8000
+2025-12-11,Shopping,556.25,Debit Card,Shoes,2025,12,Dec,Thursday,9000
+2025-08-30,Groceries,780.0,Upi,Essentials,2025,8,Aug,Saturday,10000
+2025-04-18,Food,772.0,Upi,Restaurant,2025,4,Apr,Friday,12000
+2025-05-30,Shopping,3803.0,Upi,Accessories,2025,5,May,Friday,9000
+2025-06-09,Food,749.0,Upi,Snacks,2025,6,Jun,Monday,12000
+2025-09-11,Groceries,1120.0,Net Banking,Essentials,2025,9,Sep,Thursday,10000
+2025-09-20,Groceries,1777.0,Upi,Essentials,2025,9,Sep,Saturday,10000
+2025-08-29,Travel,2656.0,Net Banking,Flight,2025,8,Aug,Friday,10000
+2025-10-29,Healthcare,3902.0,Credit Card,Checkup,2025,10,Oct,Wednesday,5000
+2025-02-11,Recharge,387.0,Upi,Data Pack,2025,2,Feb,Tuesday,2000
+2025-02-05,Entertainment,943.0,Credit Card,Game,2025,2,Feb,Wednesday,7000
+2025-03-14,Entertainment,1576.0,Upi,Movie,2025,3,Mar,Friday,7000
+2025-07-15,Travel,1954.0,Upi,Train,2025,7,Jul,Tuesday,10000
+2025-01-05,Food,527.0,Upi,Snacks,2025,1,Jan,Sunday,12000
+2025-09-21,Groceries,1935.0,Credit Card,Milk,2025,9,Sep,Sunday,10000
+2025-10-27,Groceries,257.0,Upi,Milk,2025,10,Oct,Monday,10000
+2025-05-10,Healthcare,3074.0,Upi,Checkup,2025,5,May,Saturday,5000
+2025-07-28,Shopping,4174.0,Credit Card,Shoes,2025,7,Jul,Monday,9000
+2025-04-26,Shopping,961.0,Upi,Online Shopping,2025,4,Apr,Saturday,9000
+2025-11-29,Education,2834.0,Debit Card,Exam Fee,2025,11,Nov,Saturday,8000
+2025-07-27,Groceries,832.0,Debit Card,Supermarket,2025,7,Jul,Sunday,10000
+2025-05-25,Groceries,1623.0,Credit Card,Supermarket,2025,5,May,Sunday,10000
+2025-01-03,Recharge,755.0,Upi,DTH Recharge,2025,1,Jan,Friday,2000
+2025-12-14,Healthcare,2974.0,Upi,Medicine,2025,12,Dec,Sunday,5000
+2025-12-26,Food,463.0,Upi,Snacks,2025,12,Dec,Friday,12000
+2025-03-25,Food,505.0,Cash,Restaurant,2025,3,Mar,Tuesday,12000
+2025-09-29,Groceries,1723.0,Credit Card,Milk,2025,9,Sep,Monday,10000
+2025-10-19,Entertainment,680.0,Upi,Movie,2025,10,Oct,Sunday,7000
+2025-03-07,Food,460.0,Cash,Lunch,2025,3,Mar,Friday,12000
+2025-09-06,Food,1068.0,Upi,Lunch,2025,9,Sep,Saturday,12000
+2025-06-29,Healthcare,2025.0,Upi,Clinic Visit,2025,6,Jun,Sunday,5000
+2025-11-07,Food,361.0,Net Banking,Lunch,2025,11,Nov,Friday,12000
+2025-05-23,Food,441.0,Upi,Dinner,2025,5,May,Friday,12000
+2025-01-12,Entertainment,760.0,Cash,Concert,2025,1,Jan,Sunday,7000
+2025-10-18,Education,3729.0,Debit Card,Course Fee,2025,10,Oct,Saturday,8000
+2025-05-14,Healthcare,3438.0,Debit Card,Clinic Visit,2025,5,May,Wednesday,5000
+2025-01-14,Travel,222.0,Upi,Bus,2025,1,Jan,Tuesday,10000
+2025-03-07,Education,4725.0,Upi,Course Fee,2025,3,Mar,Friday,8000
+2025-10-03,Travel,2151.0,Credit Card,Cab,2025,10,Oct,Friday,10000
+2025-10-08,Shopping,5698.75,Credit Card,Clothes,2025,10,Oct,Wednesday,9000
+2025-04-20,Education,5417.0,Debit Card,Stationery,2025,4,Apr,Sunday,8000
+2025-01-25,Healthcare,1976.0,Upi,Clinic Visit,2025,1,Jan,Saturday,5000
+2025-01-25,Groceries,1803.0,Cash,Supermarket,2025,1,Jan,Saturday,10000
+2025-10-15,Healthcare,427.0,Upi,Medicine,2025,10,Oct,Wednesday,5000
+2025-01-31,Entertainment,1045.0,Debit Card,Movie,2025,1,Jan,Friday,7000
+2025-11-12,Food,546.0,Credit Card,Snacks,2025,11,Nov,Wednesday,12000
+2025-02-12,Shopping,4649.0,Credit Card,Accessories,2025,2,Feb,Wednesday,9000
+2025-10-14,Rent,13154.0,Upi,PG Rent,2025,10,Oct,Tuesday,14000
+2025-09-23,Travel,2542.0,Cash,Bus,2025,9,Sep,Tuesday,10000
+2025-06-27,Groceries,1476.0,Credit Card,Essentials,2025,6,Jun,Friday,10000
+2025-03-24,Shopping,4276.0,Upi,Clothes,2025,3,Mar,Monday,9000
+2025-06-05,Groceries,389.0,Upi,Essentials,2025,6,Jun,Thursday,10000
+2025-03-21,Healthcare,699.0,Cash,Clinic Visit,2025,3,Mar,Friday,5000
+2025-09-17,Recharge,714.0,Upi,Mobile Recharge,2025,9,Sep,Wednesday,2000
+2025-12-25,Utilities,1903.0,Upi,Gas Bill,2025,12,Dec,Thursday,6000
+2025-05-04,Entertainment,745.2,Upi,Subscription,2025,5,May,Sunday,7000
+2025-04-26,Utilities,2097.0,Credit Card,Internet Bill,2025,4,Apr,Saturday,6000
+2025-01-07,Travel,2352.0,Upi,Fuel,2025,1,Jan,Tuesday,10000
+2025-03-27,Education,4216.0,Cash,Course Fee,2025,3,Mar,Thursday,8000
+2025-03-03,Rent,13898.0,Upi,PG Rent,2025,3,Mar,Monday,14000
+2025-03-20,Food,760.0,Debit Card,Cafe,2025,3,Mar,Thursday,12000
+2025-03-06,Healthcare,3384.0,Cash,Checkup,2025,3,Mar,Thursday,5000
+2025-08-01,Food,437.0,Cash,Dinner,2025,8,Aug,Friday,12000
+2025-07-07,Groceries,902.0,Upi,Supermarket,2025,7,Jul,Monday,10000
+2025-07-02,Groceries,828.0,Upi,Supermarket,2025,7,Jul,Wednesday,10000
+2025-02-03,Groceries,1787.0,Upi,Milk,2025,2,Feb,Monday,10000
+2025-08-20,Shopping,4104.0,Upi,Shoes,2025,8,Aug,Wednesday,9000
+2025-02-11,Food,120.0,Net Banking,Restaurant,2025,2,Feb,Tuesday,12000
+2025-04-15,Groceries,2439.0,Debit Card,Vegetables,2025,4,Apr,Tuesday,10000
+2025-05-09,Shopping,871.0,Cash,Clothes,2025,5,May,Friday,9000
+2025-01-10,Groceries,441.0,Cash,Supermarket,2025,1,Jan,Friday,10000
+2025-08-20,Groceries,988.0,Debit Card,Essentials,2025,8,Aug,Wednesday,10000
+2025-10-17,Groceries,975.0,Debit Card,Supermarket,2025,10,Oct,Friday,10000
+2025-03-20,Rent,14080.0,Cash,House Rent,2025,3,Mar,Thursday,14000
+2025-03-10,Shopping,2448.0,Cash,Online Shopping,2025,3,Mar,Monday,9000
+2025-03-28,Groceries,2290.0,Credit Card,Essentials,2025,3,Mar,Friday,10000
+2025-06-01,Shopping,3388.0,Net Banking,Clothes,2025,6,Jun,Sunday,9000
+2025-08-20,Food,465.0,Net Banking,Dinner,2025,8,Aug,Wednesday,12000
+2025-07-30,Entertainment,1614.0,Debit Card,Subscription,2025,7,Jul,Wednesday,7000
+2025-09-18,Groceries,972.0,Credit Card,Supermarket,2025,9,Sep,Thursday,10000
+2025-01-08,Education,5939.0,Upi,Exam Fee,2025,1,Jan,Wednesday,8000
+2025-08-08,Entertainment,1446.0,Debit Card,Game,2025,8,Aug,Friday,7000
+2025-11-25,Food,1061.0,Credit Card,Lunch,2025,11,Nov,Tuesday,12000
+2025-02-18,Healthcare,2127.0,Credit Card,Checkup,2025,2,Feb,Tuesday,5000
+2025-04-15,Groceries,2416.0,Net Banking,Essentials,2025,4,Apr,Tuesday,10000
+2025-07-09,Food,866.0,Net Banking,Snacks,2025,7,Jul,Wednesday,12000
+2025-06-13,Entertainment,851.0,Upi,Concert,2025,6,Jun,Friday,7000
+2025-09-26,Groceries,1916.0,Net Banking,Supermarket,2025,9,Sep,Friday,10000
+2025-10-15,Education,3859.0,Credit Card,Exam Fee,2025,10,Oct,Wednesday,8000
+2025-01-10,Education,5378.0,Cash,Course Fee,2025,1,Jan,Friday,8000
+2025-07-02,Education,4540.0,Upi,Exam Fee,2025,7,Jul,Wednesday,8000
+2025-11-30,Shopping,4996.25,Net Banking,Shoes,2025,11,Nov,Sunday,9000
+2025-08-01,Rent,6685.0,Cash,House Rent,2025,8,Aug,Friday,14000
+2025-05-02,Recharge,643.0,Upi,DTH Recharge,2025,5,May,Friday,2000
+2025-09-25,Recharge,332.0,Upi,Mobile Recharge,2025,9,Sep,Thursday,2000
+2025-05-29,Groceries,2127.0,Credit Card,Milk,2025,5,May,Thursday,10000
+2025-05-15,Groceries,862.0,Credit Card,Essentials,2025,5,May,Thursday,10000
+2025-09-13,Entertainment,797.0,Debit Card,Movie,2025,9,Sep,Saturday,7000
+2025-01-22,Utilities,1269.0,Upi,Internet Bill,2025,1,Jan,Wednesday,6000
+2025-10-10,Recharge,661.0,Upi,DTH Recharge,2025,10,Oct,Friday,2000
+2025-03-29,Healthcare,1367.0,Credit Card,Tests,2025,3,Mar,Saturday,5000
+2025-07-08,Education,1876.0,Upi,Exam Fee,2025,7,Jul,Tuesday,8000
+2025-04-28,Recharge,118.0,Upi,Data Pack,2025,4,Apr,Monday,2000
+2025-10-22,Groceries,2355.0,Credit Card,Supermarket,2025,10,Oct,Wednesday,10000
+2025-08-17,Shopping,661.0,Upi,Online Shopping,2025,8,Aug,Sunday,9000
+2025-05-09,Shopping,1584.0,Debit Card,Online Shopping,2025,5,May,Friday,9000
+2025-04-14,Food,973.0,Credit Card,Restaurant,2025,4,Apr,Monday,12000
+2025-01-10,Entertainment,1628.0,Credit Card,Subscription,2025,1,Jan,Friday,7000
+2025-08-07,Food,1022.0,Credit Card,Snacks,2025,8,Aug,Thursday,12000
+2025-03-27,Utilities,2781.0,Debit Card,Water Bill,2025,3,Mar,Thursday,6000
+2025-01-12,Entertainment,2456.0,Cash,Movie,2025,1,Jan,Sunday,7000
+2025-01-20,Rent,8634.0,Debit Card,Room Rent,2025,1,Jan,Monday,14000
+2025-03-11,Entertainment,1324.0,Upi,Subscription,2025,3,Mar,Tuesday,7000
+2025-05-12,Food,1143.0,Debit Card,Lunch,2025,5,May,Monday,12000
+2025-06-03,Food,921.0,Credit Card,Snacks,2025,6,Jun,Tuesday,12000
+2025-07-21,Recharge,137.0,Upi,Mobile Recharge,2025,7,Jul,Monday,2000
+2025-01-20,Shopping,2620.0,Credit Card,Online Shopping,2025,1,Jan,Monday,9000
+2025-08-09,Food,625.0,Credit Card,Snacks,2025,8,Aug,Saturday,12000
+2025-12-02,Entertainment,1533.6,Credit Card,Game,2025,12,Dec,Tuesday,7000
+2025-09-11,Recharge,635.0,Credit Card,Data Pack,2025,9,Sep,Thursday,2000
+2025-06-08,Travel,282.15,Upi,Bus,2025,6,Jun,Sunday,10000
+2025-06-01,Healthcare,1432.0,Credit Card,Checkup,2025,6,Jun,Sunday,5000
+2025-04-27,Food,1026.0,Debit Card,Lunch,2025,4,Apr,Sunday,12000
+2025-06-22,Food,839.0,Upi,Restaurant,2025,6,Jun,Sunday,12000
+2025-07-02,Entertainment,1369.0,Upi,Movie,2025,7,Jul,Wednesday,7000
+2025-09-08,Entertainment,675.0,Credit Card,Subscription,2025,9,Sep,Monday,7000
+2025-11-09,Healthcare,1319.0,Upi,Medicine,2025,11,Nov,Sunday,5000
+2025-07-17,Education,1783.0,Upi,Exam Fee,2025,7,Jul,Thursday,8000
+2025-07-17,Groceries,1782.0,Debit Card,Essentials,2025,7,Jul,Thursday,10000
+2025-12-25,Entertainment,2860.8,Net Banking,Movie,2025,12,Dec,Thursday,7000
+2025-03-02,Shopping,437.0,Upi,Clothes,2025,3,Mar,Sunday,9000
+2025-04-17,Recharge,724.0,Credit Card,Data Pack,2025,4,Apr,Thursday,2000
+2025-07-17,Rent,9920.0,Net Banking,Room Rent,2025,7,Jul,Thursday,14000
+2025-09-02,Utilities,1949.0,Debit Card,Water Bill,2025,9,Sep,Tuesday,6000
+2025-03-10,Food,148.0,Upi,Snacks,2025,3,Mar,Monday,12000
+2025-12-22,Food,737.0,Credit Card,Cafe,2025,12,Dec,Monday,12000
+2025-05-09,Groceries,2061.0,Cash,Milk,2025,5,May,Friday,10000
+2025-11-12,Groceries,387.0,Upi,Supermarket,2025,11,Nov,Wednesday,10000
+2025-06-01,Education,5580.0,Net Banking,Course Fee,2025,6,Jun,Sunday,8000
+2025-12-30,Shopping,3451.25,Cash,Accessories,2025,12,Dec,Tuesday,9000
+2025-06-12,Food,369.0,Upi,Cafe,2025,6,Jun,Thursday,12000
+2025-08-05,Food,304.0,Upi,Restaurant,2025,8,Aug,Tuesday,12000
+2025-10-28,Travel,1401.0,Cash,Flight,2025,10,Oct,Tuesday,10000
+2025-12-04,Entertainment,2996.4,Upi,Movie,2025,12,Dec,Thursday,7000
+2025-07-15,Education,1189.0,Upi,Exam Fee,2025,7,Jul,Tuesday,8000
+2025-03-11,Healthcare,2986.0,Upi,Clinic Visit,2025,3,Mar,Tuesday,5000
+2025-09-05,Rent,7171.0,Upi,Room Rent,2025,9,Sep,Friday,14000
+2025-06-03,Groceries,1095.0,Credit Card,Vegetables,2025,6,Jun,Tuesday,10000
+2025-11-10,Education,5701.0,Upi,Exam Fee,2025,11,Nov,Monday,8000
+2025-08-06,Entertainment,2138.0,Upi,Movie,2025,8,Aug,Wednesday,7000
+2025-06-10,Healthcare,3549.0,Credit Card,Tests,2025,6,Jun,Tuesday,5000
+2025-11-23,Shopping,1121.25,Upi,Clothes,2025,11,Nov,Sunday,9000
+2025-06-01,Travel,974.7,Debit Card,Train,2025,6,Jun,Sunday,10000
+2025-02-12,Shopping,3969.0,Upi,Shoes,2025,2,Feb,Wednesday,9000
+2025-07-17,Recharge,709.0,Upi,Mobile Recharge,2025,7,Jul,Thursday,2000
+2025-01-05,Food,121.0,Debit Card,Cafe,2025,1,Jan,Sunday,12000
+2025-11-26,Food,197.0,Debit Card,Lunch,2025,11,Nov,Wednesday,12000
+2025-05-05,Food,687.0,Cash,Dinner,2025,5,May,Monday,12000
+2025-02-28,Food,710.0,Cash,Restaurant,2025,2,Feb,Friday,12000
+2025-02-01,Groceries,731.0,Upi,Supermarket,2025,2,Feb,Saturday,10000
+2025-08-02,Education,3291.0,Debit Card,Course Fee,2025,8,Aug,Saturday,8000
+2025-04-26,Utilities,1281.0,Upi,Electricity Bill,2025,4,Apr,Saturday,6000
+2025-06-17,Food,157.0,Debit Card,Restaurant,2025,6,Jun,Tuesday,12000
+2025-03-07,Utilities,2283.0,Upi,Gas Bill,2025,3,Mar,Friday,6000
+2025-02-13,Utilities,2077.0,Upi,Water Bill,2025,2,Feb,Thursday,6000
+2025-06-16,Food,700.0,Upi,Lunch,2025,6,Jun,Monday,12000
+2025-07-16,Utilities,806.0,Upi,Gas Bill,2025,7,Jul,Wednesday,6000
+2025-03-15,Shopping,307.0,Upi,Online Shopping,2025,3,Mar,Saturday,9000
+2025-10-24,Healthcare,2511.0,Upi,Clinic Visit,2025,10,Oct,Friday,5000
+2025-02-24,Healthcare,1204.0,Upi,Clinic Visit,2025,2,Feb,Monday,5000
+2025-08-26,Food,653.0,Upi,Dinner,2025,8,Aug,Tuesday,12000
+2025-09-20,Shopping,3224.0,Net Banking,Shoes,2025,9,Sep,Saturday,9000
+2025-12-29,Healthcare,339.0,Upi,Clinic Visit,2025,12,Dec,Monday,5000
+2025-05-09,Utilities,1514.0,Upi,Electricity Bill,2025,5,May,Friday,6000
+2025-06-25,Groceries,812.0,Upi,Milk,2025,6,Jun,Wednesday,10000
+2025-09-03,Healthcare,2110.0,Debit Card,Clinic Visit,2025,9,Sep,Wednesday,5000
+2025-10-29,Food,1139.0,Net Banking,Snacks,2025,10,Oct,Wednesday,12000
+2025-01-21,Food,769.0,Credit Card,Dinner,2025,1,Jan,Tuesday,12000
+2025-04-12,Healthcare,1829.0,Upi,Tests,2025,4,Apr,Saturday,5000
+2025-05-08,Food,230.0,Upi,Restaurant,2025,5,May,Thursday,12000
+2025-06-03,Entertainment,426.0,Upi,Movie,2025,6,Jun,Tuesday,7000
+2025-09-22,Groceries,1595.0,Net Banking,Milk,2025,9,Sep,Monday,10000
+2025-07-30,Entertainment,1618.0,Net Banking,Game,2025,7,Jul,Wednesday,7000
+2025-12-30,Shopping,3505.0,Upi,Shoes,2025,12,Dec,Tuesday,9000
+2025-05-11,Healthcare,887.0,Upi,Checkup,2025,5,May,Sunday,5000
+2025-10-04,Utilities,2703.0,Debit Card,Water Bill,2025,10,Oct,Saturday,6000
+2025-06-12,Entertainment,1915.0,Net Banking,Subscription,2025,6,Jun,Thursday,7000
+2025-12-04,Groceries,1537.0,Credit Card,Essentials,2025,12,Dec,Thursday,10000
+2025-06-25,Shopping,1195.0,Upi,Clothes,2025,6,Jun,Wednesday,9000
+2025-04-18,Groceries,1874.0,Debit Card,Essentials,2025,4,Apr,Friday,10000
+2025-10-16,Groceries,923.0,Credit Card,Milk,2025,10,Oct,Thursday,10000
+2025-03-07,Travel,632.0,Credit Card,Flight,2025,3,Mar,Friday,10000
+2025-02-16,Food,553.0,Debit Card,Dinner,2025,2,Feb,Sunday,12000
+2025-01-01,Food,1067.0,Cash,Lunch,2025,1,Jan,Wednesday,12000
+2025-01-04,Food,541.0,Upi,Snacks,2025,1,Jan,Saturday,12000
+2025-08-15,Food,1048.0,Credit Card,Dinner,2025,8,Aug,Friday,12000
+2025-02-08,Education,892.0,Debit Card,Books,2025,2,Feb,Saturday,8000
+2025-07-26,Food,309.0,Credit Card,Lunch,2025,7,Jul,Saturday,12000
+2025-08-07,Shopping,2754.0,Upi,Shoes,2025,8,Aug,Thursday,9000
+2025-02-15,Groceries,341.0,Debit Card,Supermarket,2025,2,Feb,Saturday,10000
+2025-07-09,Food,695.0,Cash,Cafe,2025,7,Jul,Wednesday,12000
+2025-04-12,Recharge,826.0,Upi,Mobile Recharge,2025,4,Apr,Saturday,2000
+2025-03-24,Rent,13789.0,Net Banking,PG Rent,2025,3,Mar,Monday,14000
+2025-10-02,Food,383.0,Cash,Restaurant,2025,10,Oct,Thursday,12000
+2025-09-08,Education,5994.0,Upi,Exam Fee,2025,9,Sep,Monday,8000
+2025-04-30,Healthcare,1233.0,Upi,Clinic Visit,2025,4,Apr,Wednesday,5000
+2025-10-13,Groceries,464.0,Cash,Supermarket,2025,10,Oct,Monday,10000
+2025-11-04,Education,5822.0,Cash,Books,2025,11,Nov,Tuesday,8000
+2025-11-30,Recharge,321.0,Credit Card,DTH Recharge,2025,11,Nov,Sunday,2000
+2025-03-09,Rent,6987.0,Debit Card,House Rent,2025,3,Mar,Sunday,14000
+2025-05-05,Food,794.0,Upi,Restaurant,2025,5,May,Monday,12000
+2025-06-07,Recharge,367.0,Credit Card,Data Pack,2025,6,Jun,Saturday,2000
+2025-02-19,Recharge,568.0,Upi,Mobile Recharge,2025,2,Feb,Wednesday,2000
+2025-10-31,Groceries,1499.0,Upi,Supermarket,2025,10,Oct,Friday,10000
+2025-07-20,Shopping,3816.0,Cash,Accessories,2025,7,Jul,Sunday,9000
+2025-08-04,Shopping,2827.0,Credit Card,Clothes,2025,8,Aug,Monday,9000
+2025-12-09,Recharge,530.0,Cash,Data Pack,2025,12,Dec,Tuesday,2000
+2025-03-17,Shopping,826.0,Credit Card,Shoes,2025,3,Mar,Monday,9000
+2025-11-04,Groceries,605.0,Credit Card,Essentials,2025,11,Nov,Tuesday,10000
+2025-02-07,Groceries,2011.0,Debit Card,Essentials,2025,2,Feb,Friday,10000
+2025-05-12,Shopping,2146.0,Upi,Online Shopping,2025,5,May,Monday,9000
+2025-09-17,Recharge,505.0,Debit Card,DTH Recharge,2025,9,Sep,Wednesday,2000
+2025-12-08,Recharge,591.0,Net Banking,Data Pack,2025,12,Dec,Monday,2000
+2025-12-13,Food,1050.0,Net Banking,Restaurant,2025,12,Dec,Saturday,12000
+2025-07-29,Groceries,2136.0,Cash,Milk,2025,7,Jul,Tuesday,10000
+2025-08-06,Utilities,782.0,Upi,Gas Bill,2025,8,Aug,Wednesday,6000
+2025-12-28,Recharge,548.0,Upi,Mobile Recharge,2025,12,Dec,Sunday,2000
+2025-08-29,Shopping,441.0,Credit Card,Clothes,2025,8,Aug,Friday,9000
+2025-12-06,Groceries,2047.0,Credit Card,Vegetables,2025,12,Dec,Saturday,10000
+2025-02-18,Shopping,1625.0,Cash,Online Shopping,2025,2,Feb,Tuesday,9000
+2025-02-12,Food,503.0,Cash,Cafe,2025,2,Feb,Wednesday,12000
+2025-10-22,Groceries,540.0,Upi,Supermarket,2025,10,Oct,Wednesday,10000
+2025-11-14,Food,717.0,Upi,Restaurant,2025,11,Nov,Friday,12000
+2025-09-22,Shopping,4948.0,Debit Card,Clothes,2025,9,Sep,Monday,9000
+2025-11-03,Groceries,382.0,Debit Card,Vegetables,2025,11,Nov,Monday,10000
+2025-07-11,Groceries,1717.0,Net Banking,Vegetables,2025,7,Jul,Friday,10000
+2025-05-07,Entertainment,240.0,Upi,Subscription,2025,5,May,Wednesday,7000
+2025-11-28,Healthcare,883.0,Net Banking,Medicine,2025,11,Nov,Friday,5000
+2025-04-19,Utilities,2992.0,Upi,Electricity Bill,2025,4,Apr,Saturday,6000
+2025-03-31,Rent,12246.0,Net Banking,House Rent,2025,3,Mar,Monday,14000
+2025-01-08,Shopping,473.0,Cash,Clothes,2025,1,Jan,Wednesday,9000
+2025-08-03,Healthcare,2010.0,Debit Card,Checkup,2025,8,Aug,Sunday,5000
+2025-11-20,Recharge,772.0,Upi,Data Pack,2025,11,Nov,Thursday,2000
+2025-05-27,Recharge,850.0,Upi,Mobile Recharge,2025,5,May,Tuesday,2000
+2025-08-13,Recharge,431.0,Cash,DTH Recharge,2025,8,Aug,Wednesday,2000
+2025-02-10,Food,1058.0,Credit Card,Cafe,2025,2,Feb,Monday,12000
+2025-11-03,Utilities,2366.0,Credit Card,Water Bill,2025,11,Nov,Monday,6000
+2025-07-29,Food,662.0,Net Banking,Restaurant,2025,7,Jul,Tuesday,12000
+2025-02-08,Entertainment,1763.0,Upi,Concert,2025,2,Feb,Saturday,7000
+2025-06-04,Utilities,1128.0,Net Banking,Water Bill,2025,6,Jun,Wednesday,6000
+2025-12-16,Groceries,1304.0,Credit Card,Supermarket,2025,12,Dec,Tuesday,10000
+2025-08-23,Shopping,2156.0,Cash,Accessories,2025,8,Aug,Saturday,9000
+2025-12-23,Food,673.0,Upi,Restaurant,2025,12,Dec,Tuesday,12000
+2025-10-06,Food,376.0,Credit Card,Cafe,2025,10,Oct,Monday,12000
+2025-04-09,Recharge,528.0,Upi,Mobile Recharge,2025,4,Apr,Wednesday,2000
+2025-05-02,Healthcare,1353.0,Upi,Checkup,2025,5,May,Friday,5000
+2025-10-15,Food,294.0,Debit Card,Restaurant,2025,10,Oct,Wednesday,12000
+2025-03-04,Food,122.0,Upi,Cafe,2025,3,Mar,Tuesday,12000
+2025-11-09,Education,1641.0,Credit Card,Books,2025,11,Nov,Sunday,8000
+2025-06-16,Food,539.0,Upi,Dinner,2025,6,Jun,Monday,12000
+2025-02-25,Recharge,932.0,Upi,DTH Recharge,2025,2,Feb,Tuesday,2000
+2025-06-06,Education,3773.0,Credit Card,Stationery,2025,6,Jun,Friday,8000
+2025-05-06,Food,494.0,Upi,Snacks,2025,5,May,Tuesday,12000
+2025-06-25,Food,932.0,Cash,Restaurant,2025,6,Jun,Wednesday,12000
+2025-12-31,Groceries,1657.0,Upi,Supermarket,2025,12,Dec,Wednesday,10000
+2025-12-10,Shopping,927.5,Upi,Clothes,2025,12,Dec,Wednesday,9000
+2025-09-17,Shopping,1478.0,Upi,Accessories,2025,9,Sep,Wednesday,9000
+2025-08-22,Recharge,662.0,Cash,DTH Recharge,2025,8,Aug,Friday,2000
+2025-05-05,Groceries,1110.0,Upi,Milk,2025,5,May,Monday,10000
+2025-05-02,Groceries,2372.0,Upi,Supermarket,2025,5,May,Friday,10000
+2025-12-23,Recharge,134.0,Debit Card,Data Pack,2025,12,Dec,Tuesday,2000
+2025-07-20,Shopping,2716.0,Cash,Accessories,2025,7,Jul,Sunday,9000
+2025-05-06,Food,208.0,Net Banking,Dinner,2025,5,May,Tuesday,12000
+2025-03-10,Recharge,264.0,Upi,Mobile Recharge,2025,3,Mar,Monday,2000
+2025-06-11,Entertainment,564.0,Debit Card,Subscription,2025,6,Jun,Wednesday,7000
+2025-12-09,Shopping,1557.5,Upi,Shoes,2025,12,Dec,Tuesday,9000
+2025-04-19,Groceries,961.0,Cash,Milk,2025,4,Apr,Saturday,10000
+2025-01-21,Food,399.0,Debit Card,Dinner,2025,1,Jan,Tuesday,12000
+2025-04-02,Utilities,2482.0,Upi,Internet Bill,2025,4,Apr,Wednesday,6000
+2025-04-21,Food,965.0,Upi,Lunch,2025,4,Apr,Monday,12000
+2025-09-30,Utilities,2651.0,Upi,Gas Bill,2025,9,Sep,Tuesday,6000
+2025-09-07,Food,886.0,Upi,Snacks,2025,9,Sep,Sunday,12000
+2025-01-08,Food,616.0,Upi,Dinner,2025,1,Jan,Wednesday,12000
+2025-05-27,Food,163.0,Credit Card,Cafe,2025,5,May,Tuesday,12000
+2025-09-24,Healthcare,2145.0,Upi,Clinic Visit,2025,9,Sep,Wednesday,5000
+2025-09-03,Education,4232.0,Credit Card,Exam Fee,2025,9,Sep,Wednesday,8000
+2025-01-05,Entertainment,1176.0,Credit Card,Movie,2025,1,Jan,Sunday,7000
+2025-02-15,Groceries,1217.0,Net Banking,Vegetables,2025,2,Feb,Saturday,10000
+2025-05-27,Shopping,2967.0,Upi,Online Shopping,2025,5,May,Tuesday,9000
+2025-03-11,Rent,13166.0,Upi,PG Rent,2025,3,Mar,Tuesday,14000
+2025-03-16,Groceries,1439.0,Upi,Essentials,2025,3,Mar,Sunday,10000
+2025-07-22,Travel,853.0,Upi,Train,2025,7,Jul,Tuesday,10000
+2025-06-28,Groceries,2172.0,Net Banking,Milk,2025,6,Jun,Saturday,10000
+2025-04-02,Food,871.0,Debit Card,Lunch,2025,4,Apr,Wednesday,12000
+2025-02-17,Groceries,2063.0,Debit Card,Vegetables,2025,2,Feb,Monday,10000
+2025-12-03,Food,980.0,Upi,Lunch,2025,12,Dec,Wednesday,12000
+2025-03-04,Groceries,1546.0,Upi,Vegetables,2025,3,Mar,Tuesday,10000
+2025-07-08,Entertainment,1337.0,Upi,Movie,2025,7,Jul,Tuesday,7000
+2025-08-02,Groceries,882.0,Debit Card,Milk,2025,8,Aug,Saturday,10000
+2025-10-25,Food,419.0,Upi,Dinner,2025,10,Oct,Saturday,12000
+2025-07-13,Entertainment,895.0,Upi,Concert,2025,7,Jul,Sunday,7000
+2025-10-30,Groceries,218.0,Upi,Milk,2025,10,Oct,Thursday,10000
+2025-04-23,Entertainment,889.2,Cash,Movie,2025,4,Apr,Wednesday,7000
+2025-10-19,Healthcare,324.0,Credit Card,Tests,2025,10,Oct,Sunday,5000
+2025-02-06,Education,4736.0,Debit Card,Books,2025,2,Feb,Thursday,8000
+2025-07-07,Utilities,700.0,Debit Card,Gas Bill,2025,7,Jul,Monday,6000
+2025-02-04,Healthcare,2541.0,Cash,Tests,2025,2,Feb,Tuesday,5000
+2025-09-22,Entertainment,1001.0,Cash,Game,2025,9,Sep,Monday,7000
+2025-09-17,Groceries,613.0,Cash,Essentials,2025,9,Sep,Wednesday,10000
+2025-12-21,Food,1009.0,Debit Card,Snacks,2025,12,Dec,Sunday,12000
+2025-10-17,Rent,8092.0,Net Banking,Room Rent,2025,10,Oct,Friday,14000
+2025-12-24,Groceries,1751.0,Credit Card,Vegetables,2025,12,Dec,Wednesday,10000
+2025-06-11,Groceries,649.0,Credit Card,Supermarket,2025,6,Jun,Wednesday,10000
+2025-04-21,Utilities,2450.0,Upi,Internet Bill,2025,4,Apr,Monday,6000
+2025-08-03,Healthcare,1273.0,Upi,Tests,2025,8,Aug,Sunday,5000
+2025-01-27,Rent,9701.0,Upi,House Rent,2025,1,Jan,Monday,14000
+2025-10-22,Travel,2518.0,Upi,Fuel,2025,10,Oct,Wednesday,10000
+2025-09-26,Utilities,2056.0,Upi,Internet Bill,2025,9,Sep,Friday,6000
+2025-11-09,Shopping,2005.0,Upi,Clothes,2025,11,Nov,Sunday,9000
+2025-07-02,Entertainment,1669.0,Upi,Game,2025,7,Jul,Wednesday,7000
+2025-02-23,Food,759.0,Credit Card,Cafe,2025,2,Feb,Sunday,12000
+2025-02-22,Groceries,1245.0,Upi,Supermarket,2025,2,Feb,Saturday,10000
+2025-07-24,Groceries,1694.0,Credit Card,Supermarket,2025,7,Jul,Thursday,10000
+2025-04-29,Education,4545.0,Debit Card,Stationery,2025,4,Apr,Tuesday,8000
+2025-12-20,Entertainment,1557.6,Upi,Movie,2025,12,Dec,Saturday,7000
+2025-03-20,Rent,11086.0,Upi,House Rent,2025,3,Mar,Thursday,14000
+2025-06-03,Recharge,885.0,Upi,Data Pack,2025,6,Jun,Tuesday,2000
+2025-07-28,Education,3914.0,Credit Card,Stationery,2025,7,Jul,Monday,8000
+2025-11-21,Food,1039.0,Credit Card,Snacks,2025,11,Nov,Friday,12000
+2025-06-05,Groceries,832.0,Upi,Essentials,2025,6,Jun,Thursday,10000
+2025-05-17,Recharge,773.0,Upi,Data Pack,2025,5,May,Saturday,2000
+2025-11-03,Groceries,2388.0,Upi,Milk,2025,11,Nov,Monday,10000
+2025-04-22,Education,3992.0,Cash,Exam Fee,2025,4,Apr,Tuesday,8000
+2025-08-06,Healthcare,2248.0,Upi,Tests,2025,8,Aug,Wednesday,5000
+2025-08-05,Shopping,4418.0,Upi,Accessories,2025,8,Aug,Tuesday,9000
+2025-01-13,Groceries,1324.0,Net Banking,Supermarket,2025,1,Jan,Monday,10000
+2025-01-11,Groceries,2008.0,Credit Card,Vegetables,2025,1,Jan,Saturday,10000
+2025-04-04,Food,632.0,Upi,Lunch,2025,4,Apr,Friday,12000
+2025-05-20,Food,909.0,Cash,Dinner,2025,5,May,Tuesday,12000
+2025-02-10,Shopping,1678.0,Upi,Shoes,2025,2,Feb,Monday,9000
+2025-09-13,Recharge,326.0,Upi,DTH Recharge,2025,9,Sep,Saturday,2000
+2025-01-13,Groceries,2457.0,Upi,Supermarket,2025,1,Jan,Monday,10000
+2025-01-31,Food,997.0,Upi,Restaurant,2025,1,Jan,Friday,12000
+2025-06-15,Entertainment,1682.0,Credit Card,Concert,2025,6,Jun,Sunday,7000
+2025-04-10,Shopping,2968.0,Debit Card,Clothes,2025,4,Apr,Thursday,9000
+2025-06-11,Groceries,1951.0,Net Banking,Supermarket,2025,6,Jun,Wednesday,10000
+2025-10-01,Groceries,1251.0,Net Banking,Supermarket,2025,10,Oct,Wednesday,10000
+2025-05-29,Groceries,739.0,Credit Card,Milk,2025,5,May,Thursday,10000
+2025-03-06,Utilities,855.0,Cash,Internet Bill,2025,3,Mar,Thursday,6000
+2025-08-15,Shopping,1848.0,Cash,Shoes,2025,8,Aug,Friday,9000
+2025-02-23,Rent,7673.0,Upi,Room Rent,2025,2,Feb,Sunday,14000
+2025-02-22,Food,657.0,Upi,Cafe,2025,2,Feb,Saturday,12000
+2025-12-03,Groceries,597.0,Upi,Vegetables,2025,12,Dec,Wednesday,10000
+2025-04-21,Recharge,713.0,Upi,Data Pack,2025,4,Apr,Monday,2000
+2025-01-24,Groceries,740.0,Upi,Supermarket,2025,1,Jan,Friday,10000
+2025-07-07,Groceries,2477.0,Debit Card,Essentials,2025,7,Jul,Monday,10000
+2025-06-05,Entertainment,2351.0,Upi,Game,2025,6,Jun,Thursday,7000
+2025-10-10,Recharge,601.0,Cash,DTH Recharge,2025,10,Oct,Friday,2000
+2025-06-24,Groceries,1897.0,Upi,Essentials,2025,6,Jun,Tuesday,10000
+2025-08-12,Groceries,1724.0,Upi,Essentials,2025,8,Aug,Tuesday,10000
+2025-01-07,Travel,2953.0,Credit Card,Flight,2025,1,Jan,Tuesday,10000
+2025-01-16,Utilities,1219.0,Upi,Gas Bill,2025,1,Jan,Thursday,6000
+2025-05-15,Food,722.0,Credit Card,Lunch,2025,5,May,Thursday,12000
+2025-09-21,Groceries,424.0,Credit Card,Supermarket,2025,9,Sep,Sunday,10000
+2025-02-14,Entertainment,1282.0,Upi,Subscription,2025,2,Feb,Friday,7000
+2025-06-06,Travel,3789.45,Credit Card,Fuel,2025,6,Jun,Friday,10000
+2025-03-20,Healthcare,1447.0,Upi,Checkup,2025,3,Mar,Thursday,5000
+2025-01-04,Healthcare,1925.0,Net Banking,Tests,2025,1,Jan,Saturday,5000
+2025-05-13,Shopping,2147.0,Net Banking,Shoes,2025,5,May,Tuesday,9000
+2025-11-27,Food,639.0,Debit Card,Restaurant,2025,11,Nov,Thursday,12000
+2025-02-28,Healthcare,1413.0,Upi,Checkup,2025,2,Feb,Friday,5000
+2025-01-26,Entertainment,1617.0,Upi,Subscription,2025,1,Jan,Sunday,7000
+2025-09-24,Recharge,560.0,Debit Card,DTH Recharge,2025,9,Sep,Wednesday,2000
+2025-12-17,Entertainment,2632.8,Upi,Movie,2025,12,Dec,Wednesday,7000
+2025-06-24,Groceries,415.0,Credit Card,Vegetables,2025,6,Jun,Tuesday,10000
+2025-02-16,Entertainment,358.0,Credit Card,Concert,2025,2,Feb,Sunday,7000
+2025-10-09,Entertainment,1976.0,Net Banking,Game,2025,10,Oct,Thursday,7000
+2025-11-04,Groceries,2495.0,Upi,Milk,2025,11,Nov,Tuesday,10000
+2025-08-14,Shopping,3083.0,Upi,Clothes,2025,8,Aug,Thursday,9000
+2025-02-15,Food,552.0,Credit Card,Cafe,2025,2,Feb,Saturday,12000
+2025-03-19,Food,813.0,Upi,Lunch,2025,3,Mar,Wednesday,12000
+2025-01-06,Recharge,192.0,Upi,Mobile Recharge,2025,1,Jan,Monday,2000
+2025-08-23,Healthcare,919.0,Debit Card,Clinic Visit,2025,8,Aug,Saturday,5000
+2025-11-27,Education,2880.0,Upi,Exam Fee,2025,11,Nov,Thursday,8000
+2025-06-05,Travel,2369.25,Cash,Flight,2025,6,Jun,Thursday,10000
+2025-12-21,Food,659.0,Upi,Lunch,2025,12,Dec,Sunday,12000
+2025-03-31,Food,545.0,Upi,Lunch,2025,3,Mar,Monday,12000
+2025-12-23,Shopping,1461.25,Credit Card,Shoes,2025,12,Dec,Tuesday,9000
+2025-09-17,Entertainment,819.0,Debit Card,Subscription,2025,9,Sep,Wednesday,7000
+2025-05-05,Shopping,3725.0,Credit Card,Accessories,2025,5,May,Monday,9000
+2025-09-02,Utilities,2997.0,Net Banking,Gas Bill,2025,9,Sep,Tuesday,6000
+2025-05-21,Groceries,207.0,Debit Card,Supermarket,2025,5,May,Wednesday,10000
+2025-04-04,Shopping,4582.0,Net Banking,Shoes,2025,4,Apr,Friday,9000
+2025-12-08,Entertainment,2808.0,Upi,Movie,2025,12,Dec,Monday,7000
+2025-03-15,Recharge,647.0,Upi,Data Pack,2025,3,Mar,Saturday,2000
+2025-09-12,Shopping,2518.0,Cash,Shoes,2025,9,Sep,Friday,9000
+2025-09-09,Healthcare,1171.0,Debit Card,Clinic Visit,2025,9,Sep,Tuesday,5000
+2025-04-01,Groceries,548.0,Upi,Vegetables,2025,4,Apr,Tuesday,10000
+2025-06-22,Groceries,209.0,Net Banking,Milk,2025,6,Jun,Sunday,10000
+2025-09-05,Food,766.0,Net Banking,Restaurant,2025,9,Sep,Friday,12000
+2025-06-09,Groceries,800.0,Debit Card,Vegetables,2025,6,Jun,Monday,10000
+2025-11-19,Utilities,1479.0,Cash,Water Bill,2025,11,Nov,Wednesday,6000
+2025-06-12,Travel,3935.25,Credit Card,Fuel,2025,6,Jun,Thursday,10000
+2025-04-26,Utilities,1360.0,Upi,Internet Bill,2025,4,Apr,Saturday,6000
+2025-03-23,Groceries,2361.0,Net Banking,Milk,2025,3,Mar,Sunday,10000
+2025-12-31,Utilities,1927.0,Cash,Water Bill,2025,12,Dec,Wednesday,6000
+2025-11-11,Shopping,5107.5,Debit Card,Clothes,2025,11,Nov,Tuesday,9000
+2025-07-12,Healthcare,1724.0,Upi,Clinic Visit,2025,7,Jul,Saturday,5000
+2025-08-25,Travel,2110.0,Net Banking,Fuel,2025,8,Aug,Monday,10000
+2025-09-13,Food,750.0,Upi,Snacks,2025,9,Sep,Saturday,12000
+2025-04-09,Food,687.0,Debit Card,Lunch,2025,4,Apr,Wednesday,12000
+2025-04-19,Food,799.0,Upi,Cafe,2025,4,Apr,Saturday,12000
+2025-02-09,Food,504.0,Debit Card,Cafe,2025,2,Feb,Sunday,12000
+2025-03-25,Food,853.0,Upi,Snacks,2025,3,Mar,Tuesday,12000
+2025-02-10,Healthcare,1691.0,Upi,Tests,2025,2,Feb,Monday,5000
+2025-02-15,Travel,624.0,Cash,Bus,2025,2,Feb,Saturday,10000
+2025-07-14,Shopping,1690.0,Debit Card,Online Shopping,2025,7,Jul,Monday,9000
+2025-07-08,Groceries,1193.0,Debit Card,Supermarket,2025,7,Jul,Tuesday,10000
+2025-01-04,Utilities,789.0,Debit Card,Internet Bill,2025,1,Jan,Saturday,6000
+2025-06-30,Healthcare,3619.0,Upi,Medicine,2025,6,Jun,Monday,5000
+2025-03-10,Food,962.0,Upi,Restaurant,2025,3,Mar,Monday,12000
+2025-11-09,Travel,1146.15,Upi,Fuel,2025,11,Nov,Sunday,10000
+2025-11-09,Food,779.0,Upi,Snacks,2025,11,Nov,Sunday,12000
+2025-11-13,Food,311.0,Upi,Lunch,2025,11,Nov,Thursday,12000
+2025-12-08,Rent,11934.0,Upi,PG Rent,2025,12,Dec,Monday,14000
+2025-08-27,Food,405.0,Debit Card,Snacks,2025,8,Aug,Wednesday,12000
+2025-01-25,Food,305.0,Upi,Lunch,2025,1,Jan,Saturday,12000
+2025-02-16,Food,603.0,Debit Card,Snacks,2025,2,Feb,Sunday,12000
+2025-08-29,Utilities,771.0,Cash,Internet Bill,2025,8,Aug,Friday,6000
+2025-07-21,Travel,2229.0,Upi,Cab,2025,7,Jul,Monday,10000
+2025-05-19,Shopping,3851.0,Cash,Clothes,2025,5,May,Monday,9000
+2025-09-30,Utilities,2083.0,Upi,Electricity Bill,2025,9,Sep,Tuesday,6000
+2025-05-03,Education,3464.0,Upi,Books,2025,5,May,Saturday,8000
+2025-11-17,Food,662.0,Upi,Restaurant,2025,11,Nov,Monday,12000
+2025-03-29,Recharge,293.0,Credit Card,DTH Recharge,2025,3,Mar,Saturday,2000
+2025-07-17,Healthcare,3372.0,Upi,Checkup,2025,7,Jul,Thursday,5000
+2025-06-16,Food,608.0,Debit Card,Restaurant,2025,6,Jun,Monday,12000
+2025-09-08,Groceries,880.0,Upi,Vegetables,2025,9,Sep,Monday,10000
+2025-03-11,Groceries,461.0,Credit Card,Vegetables,2025,3,Mar,Tuesday,10000
+2025-01-03,Food,660.0,Credit Card,Snacks,2025,1,Jan,Friday,12000
+2025-07-02,Rent,10287.0,Upi,Room Rent,2025,7,Jul,Wednesday,14000
+2025-09-28,Recharge,199.0,Debit Card,Data Pack,2025,9,Sep,Sunday,2000
+2025-12-05,Education,542.0,Debit Card,Stationery,2025,12,Dec,Friday,8000
+2025-03-19,Travel,1974.0,Net Banking,Fuel,2025,3,Mar,Wednesday,10000
+2025-09-04,Travel,2073.0,Upi,Fuel,2025,9,Sep,Thursday,10000
+2025-12-05,Shopping,1615.0,Net Banking,Accessories,2025,12,Dec,Friday,9000
+2025-07-12,Utilities,1976.0,Credit Card,Water Bill,2025,7,Jul,Saturday,6000
+2025-01-13,Healthcare,3611.0,Debit Card,Tests,2025,1,Jan,Monday,5000
+2025-05-27,Shopping,3063.0,Upi,Accessories,2025,5,May,Tuesday,9000
+2025-03-30,Utilities,951.0,Credit Card,Water Bill,2025,3,Mar,Sunday,6000
+2025-01-22,Education,1382.0,Upi,Stationery,2025,1,Jan,Wednesday,8000
+2025-01-07,Food,474.0,Credit Card,Lunch,2025,1,Jan,Tuesday,12000
+2025-06-28,Travel,1867.05,Upi,Flight,2025,6,Jun,Saturday,10000
+2025-04-23,Education,5631.0,Upi,Exam Fee,2025,4,Apr,Wednesday,8000
+2025-10-10,Groceries,339.0,Credit Card,Vegetables,2025,10,Oct,Friday,10000
+2025-01-05,Entertainment,2147.0,Upi,Concert,2025,1,Jan,Sunday,7000
+2025-02-28,Entertainment,1541.0,Cash,Movie,2025,2,Feb,Friday,7000
+2025-01-19,Food,825.0,Upi,Cafe,2025,1,Jan,Sunday,12000
+2025-02-16,Utilities,951.0,Net Banking,Gas Bill,2025,2,Feb,Sunday,6000
+2025-07-01,Entertainment,414.0,Upi,Subscription,2025,7,Jul,Tuesday,7000
+2025-05-08,Travel,2693.25,Credit Card,Flight,2025,5,May,Thursday,10000
+2025-01-29,Rent,11911.0,Upi,PG Rent,2025,1,Jan,Wednesday,14000
+2025-12-27,Shopping,6205.0,Cash,Shoes,2025,12,Dec,Saturday,9000
+2025-06-06,Food,301.0,Upi,Cafe,2025,6,Jun,Friday,12000
+2025-11-21,Shopping,2051.25,Upi,Shoes,2025,11,Nov,Friday,9000
+2025-08-07,Travel,1862.0,Upi,Bus,2025,8,Aug,Thursday,10000
+2025-09-23,Shopping,507.0,Credit Card,Online Shopping,2025,9,Sep,Tuesday,9000
+2025-03-15,Food,265.0,Net Banking,Lunch,2025,3,Mar,Saturday,12000
+2025-10-22,Groceries,418.0,Cash,Milk,2025,10,Oct,Wednesday,10000
+2025-01-20,Entertainment,1149.0,Credit Card,Subscription,2025,1,Jan,Monday,7000
+2025-03-25,Healthcare,3854.0,Credit Card,Checkup,2025,3,Mar,Tuesday,5000
+2025-11-05,Recharge,901.0,Credit Card,Data Pack,2025,11,Nov,Wednesday,2000
+2025-07-26,Utilities,1806.0,Credit Card,Electricity Bill,2025,7,Jul,Saturday,6000
+2025-12-18,Food,659.0,Credit Card,Lunch,2025,12,Dec,Thursday,12000
+2025-04-10,Entertainment,1538.4,Credit Card,Movie,2025,4,Apr,Thursday,7000
+2025-03-06,Entertainment,1377.0,Upi,Movie,2025,3,Mar,Thursday,7000
+2025-03-20,Education,5257.0,Net Banking,Books,2025,3,Mar,Thursday,8000
+2025-09-05,Utilities,2313.0,Credit Card,Water Bill,2025,9,Sep,Friday,6000
+2025-01-25,Food,383.0,Credit Card,Snacks,2025,1,Jan,Saturday,12000
+2025-03-09,Rent,6816.0,Upi,Room Rent,2025,3,Mar,Sunday,14000
+2025-05-18,Shopping,3791.0,Credit Card,Shoes,2025,5,May,Sunday,9000
+2025-04-16,Healthcare,3275.0,Credit Card,Clinic Visit,2025,4,Apr,Wednesday,5000
+2025-06-15,Entertainment,1041.0,Cash,Concert,2025,6,Jun,Sunday,7000
+2025-06-27,Shopping,3790.0,Debit Card,Clothes,2025,6,Jun,Friday,9000
+2025-05-07,Groceries,1632.0,Upi,Essentials,2025,5,May,Wednesday,10000
+2025-05-12,Entertainment,326.4,Upi,Subscription,2025,5,May,Monday,7000
+2025-09-05,Travel,1009.0,Credit Card,Cab,2025,9,Sep,Friday,10000
+2025-02-10,Food,269.0,Credit Card,Snacks,2025,2,Feb,Monday,12000
+2025-06-17,Food,138.0,Upi,Dinner,2025,6,Jun,Tuesday,12000
+2025-02-16,Travel,1173.0,Upi,Cab,2025,2,Feb,Sunday,10000
+2025-03-10,Food,398.0,Upi,Lunch,2025,3,Mar,Monday,12000
+2025-03-02,Travel,1095.0,Credit Card,Train,2025,3,Mar,Sunday,10000
+2025-06-10,Rent,10426.0,Credit Card,PG Rent,2025,6,Jun,Tuesday,14000
+2025-10-31,Food,738.0,Debit Card,Lunch,2025,10,Oct,Friday,12000
+2025-11-15,Groceries,2193.0,Upi,Essentials,2025,11,Nov,Saturday,10000
+2025-04-01,Food,790.0,Debit Card,Restaurant,2025,4,Apr,Tuesday,12000
+2025-03-14,Entertainment,589.0,Debit Card,Subscription,2025,3,Mar,Friday,7000
+2025-10-11,Shopping,4015.0,Debit Card,Clothes,2025,10,Oct,Saturday,9000
+2025-12-04,Groceries,767.0,Debit Card,Milk,2025,12,Dec,Thursday,10000
+2025-02-27,Food,462.0,Credit Card,Cafe,2025,2,Feb,Thursday,12000
+2025-06-17,Shopping,2767.0,Upi,Accessories,2025,6,Jun,Tuesday,9000
+2025-02-06,Groceries,1558.0,Cash,Milk,2025,2,Feb,Thursday,10000
+2025-03-04,Groceries,1362.0,Credit Card,Vegetables,2025,3,Mar,Tuesday,10000
+2025-09-17,Recharge,313.0,Upi,Mobile Recharge,2025,9,Sep,Wednesday,2000
+2025-12-29,Travel,1310.85,Cash,Flight,2025,12,Dec,Monday,10000
+2025-07-26,Food,922.0,Credit Card,Cafe,2025,7,Jul,Saturday,12000
+2025-05-01,Healthcare,3756.0,Net Banking,Medicine,2025,5,May,Thursday,5000
+2025-05-13,Groceries,2232.0,Upi,Vegetables,2025,5,May,Tuesday,10000
+2025-08-30,Entertainment,1819.0,Upi,Game,2025,8,Aug,Saturday,7000
+2025-03-10,Entertainment,1352.0,Upi,Game,2025,3,Mar,Monday,7000
+2025-10-10,Rent,10841.0,Upi,House Rent,2025,10,Oct,Friday,14000
+2025-03-02,Recharge,418.0,Cash,Mobile Recharge,2025,3,Mar,Sunday,2000
+2025-08-25,Travel,1484.0,Upi,Fuel,2025,8,Aug,Monday,10000
+2025-02-05,Shopping,1500.0,Upi,Accessories,2025,2,Feb,Wednesday,9000
+2025-12-02,Shopping,1920.0,Net Banking,Shoes,2025,12,Dec,Tuesday,9000
+2025-04-19,Utilities,1161.0,Upi,Electricity Bill,2025,4,Apr,Saturday,6000
+2025-03-28,Travel,2662.0,Upi,Bus,2025,3,Mar,Friday,10000
+2025-11-09,Food,994.0,Credit Card,Snacks,2025,11,Nov,Sunday,12000
+2025-08-27,Healthcare,2000.0,Upi,Clinic Visit,2025,8,Aug,Wednesday,5000
+2025-02-15,Rent,7647.0,Cash,House Rent,2025,2,Feb,Saturday,14000
+2025-09-04,Entertainment,796.0,Credit Card,Concert,2025,9,Sep,Thursday,7000
+2025-04-18,Food,1141.0,Upi,Restaurant,2025,4,Apr,Friday,12000
+2025-07-28,Utilities,1137.0,Upi,Water Bill,2025,7,Jul,Monday,6000
+2025-05-02,Entertainment,2247.6,Credit Card,Subscription,2025,5,May,Friday,7000
+2025-06-11,Food,1134.0,Upi,Lunch,2025,6,Jun,Wednesday,12000
+2025-04-28,Shopping,4282.0,Credit Card,Online Shopping,2025,4,Apr,Monday,9000
+2025-03-13,Food,462.0,Upi,Restaurant,2025,3,Mar,Thursday,12000
+2025-01-19,Food,294.0,Credit Card,Cafe,2025,1,Jan,Sunday,12000
+2025-12-20,Groceries,1722.0,Upi,Vegetables,2025,12,Dec,Saturday,10000
+2025-04-03,Shopping,4315.0,Net Banking,Online Shopping,2025,4,Apr,Thursday,9000
+2025-09-02,Recharge,931.0,Net Banking,DTH Recharge,2025,9,Sep,Tuesday,2000
+2025-05-08,Travel,1356.75,Credit Card,Fuel,2025,5,May,Thursday,10000
+2025-11-21,Education,4900.0,Credit Card,Course Fee,2025,11,Nov,Friday,8000
+2025-11-01,Recharge,202.0,Upi,Mobile Recharge,2025,11,Nov,Saturday,2000
+2025-03-03,Entertainment,728.0,Debit Card,Subscription,2025,3,Mar,Monday,7000
+2025-09-10,Utilities,2526.0,Credit Card,Gas Bill,2025,9,Sep,Wednesday,6000
+2025-05-24,Shopping,4193.0,Credit Card,Online Shopping,2025,5,May,Saturday,9000
+2025-11-08,Shopping,5255.0,Upi,Shoes,2025,11,Nov,Saturday,9000
+2025-12-02,Groceries,1587.0,Upi,Vegetables,2025,12,Dec,Tuesday,10000
+2025-07-18,Groceries,917.0,Upi,Essentials,2025,7,Jul,Friday,10000
+2025-09-28,Groceries,1098.0,Cash,Milk,2025,9,Sep,Sunday,10000
+2025-01-30,Food,156.0,Debit Card,Lunch,2025,1,Jan,Thursday,12000
+2025-02-17,Education,693.0,Cash,Course Fee,2025,2,Feb,Monday,8000
+2025-01-06,Groceries,2432.0,Credit Card,Essentials,2025,1,Jan,Monday,10000
+2025-08-08,Travel,2313.0,Credit Card,Fuel,2025,8,Aug,Friday,10000
+2025-03-23,Food,933.0,Upi,Dinner,2025,3,Mar,Sunday,12000
+2025-08-09,Education,1134.0,Cash,Exam Fee,2025,8,Aug,Saturday,8000
+2025-12-05,Entertainment,242.4,Upi,Game,2025,12,Dec,Friday,7000
+2025-02-09,Groceries,2306.0,Credit Card,Supermarket,2025,2,Feb,Sunday,10000
+2025-03-01,Food,942.0,Credit Card,Lunch,2025,3,Mar,Saturday,12000
+2025-04-06,Recharge,958.0,Upi,Data Pack,2025,4,Apr,Sunday,2000
+2025-03-03,Travel,1429.0,Upi,Flight,2025,3,Mar,Monday,10000
+2025-06-08,Food,416.0,Cash,Restaurant,2025,6,Jun,Sunday,12000
+2025-05-16,Food,349.0,Upi,Snacks,2025,5,May,Friday,12000
+2025-11-14,Recharge,906.0,Credit Card,Mobile Recharge,2025,11,Nov,Friday,2000
+2025-12-21,Healthcare,2832.0,Upi,Clinic Visit,2025,12,Dec,Sunday,5000
+2025-01-29,Entertainment,782.0,Credit Card,Subscription,2025,1,Jan,Wednesday,7000
+2025-08-08,Shopping,2225.0,Credit Card,Clothes,2025,8,Aug,Friday,9000
+2025-08-03,Groceries,1190.0,Credit Card,Supermarket,2025,8,Aug,Sunday,10000
+2025-12-12,Shopping,1378.75,Debit Card,Clothes,2025,12,Dec,Friday,9000
+2025-03-03,Recharge,943.0,Upi,Mobile Recharge,2025,3,Mar,Monday,2000
+2025-09-24,Utilities,553.0,Upi,Gas Bill,2025,9,Sep,Wednesday,6000
+2025-02-28,Shopping,1254.0,Debit Card,Shoes,2025,2,Feb,Friday,9000
+2025-07-23,Utilities,1149.0,Upi,Internet Bill,2025,7,Jul,Wednesday,6000
+2025-12-02,Rent,9801.0,Credit Card,Room Rent,2025,12,Dec,Tuesday,14000
+2025-12-12,Education,5386.0,Credit Card,Stationery,2025,12,Dec,Friday,8000
+2025-03-03,Utilities,738.0,Credit Card,Internet Bill,2025,3,Mar,Monday,6000
+2025-08-10,Travel,2258.0,Upi,Fuel,2025,8,Aug,Sunday,10000
+2025-06-05,Groceries,1122.0,Credit Card,Milk,2025,6,Jun,Thursday,10000
+2025-03-15,Shopping,3346.0,Debit Card,Accessories,2025,3,Mar,Saturday,9000
+2025-10-06,Entertainment,1037.0,Debit Card,Concert,2025,10,Oct,Monday,7000
+2025-12-23,Groceries,403.0,Upi,Supermarket,2025,12,Dec,Tuesday,10000
+2025-09-14,Healthcare,2922.0,Upi,Medicine,2025,9,Sep,Sunday,5000
+2025-04-06,Food,927.0,Cash,Cafe,2025,4,Apr,Sunday,12000
+2025-06-25,Groceries,1440.0,Debit Card,Essentials,2025,6,Jun,Wednesday,10000
+2025-08-20,Healthcare,754.0,Net Banking,Checkup,2025,8,Aug,Wednesday,5000
+2025-09-15,Shopping,2678.0,Debit Card,Clothes,2025,9,Sep,Monday,9000
+2025-09-13,Food,787.0,Debit Card,Dinner,2025,9,Sep,Saturday,12000
+2025-10-26,Recharge,898.0,Debit Card,Mobile Recharge,2025,10,Oct,Sunday,2000
+2025-12-31,Healthcare,3206.0,Upi,Tests,2025,12,Dec,Wednesday,5000
+2025-09-10,Entertainment,2104.0,Net Banking,Subscription,2025,9,Sep,Wednesday,7000
+2025-07-06,Groceries,698.0,Upi,Milk,2025,7,Jul,Sunday,10000
+2025-10-31,Recharge,600.0,Upi,Data Pack,2025,10,Oct,Friday,2000
+2025-04-24,Food,1091.0,Upi,Lunch,2025,4,Apr,Thursday,12000
+2025-12-21,Shopping,1017.5,Credit Card,Clothes,2025,12,Dec,Sunday,9000
+2025-05-05,Travel,3152.25,Upi,Flight,2025,5,May,Monday,10000
+2025-03-02,Education,4978.0,Credit Card,Course Fee,2025,3,Mar,Sunday,8000
+2025-03-15,Food,672.0,Upi,Dinner,2025,3,Mar,Saturday,12000
+2025-02-17,Entertainment,2458.0,Debit Card,Subscription,2025,2,Feb,Monday,7000
+2025-04-20,Recharge,794.0,Credit Card,DTH Recharge,2025,4,Apr,Sunday,2000
+2025-11-11,Groceries,1100.0,Net Banking,Supermarket,2025,11,Nov,Tuesday,10000
+2025-02-19,Shopping,2517.0,Credit Card,Clothes,2025,2,Feb,Wednesday,9000
+2025-01-14,Recharge,814.0,Net Banking,Mobile Recharge,2025,1,Jan,Tuesday,2000
+2025-06-04,Food,793.0,Upi,Lunch,2025,6,Jun,Wednesday,12000
+2025-10-04,Groceries,1139.0,Upi,Vegetables,2025,10,Oct,Saturday,10000
+2025-02-28,Food,956.0,Credit Card,Cafe,2025,2,Feb,Friday,12000
+2025-12-05,Shopping,2472.5,Upi,Shoes,2025,12,Dec,Friday,9000
+2025-08-02,Recharge,853.0,Credit Card,Mobile Recharge,2025,8,Aug,Saturday,2000
+2025-05-22,Food,533.0,Debit Card,Lunch,2025,5,May,Thursday,12000
+2025-02-12,Travel,356.0,Debit Card,Flight,2025,2,Feb,Wednesday,10000
+2025-08-10,Education,3190.0,Credit Card,Course Fee,2025,8,Aug,Sunday,8000
+2025-04-04,Education,4608.0,Upi,Books,2025,4,Apr,Friday,8000
+2025-08-18,Healthcare,2157.0,Net Banking,Checkup,2025,8,Aug,Monday,5000
+2025-03-16,Education,3423.0,Upi,Course Fee,2025,3,Mar,Sunday,8000
+2025-05-28,Entertainment,1502.4,Upi,Concert,2025,5,May,Wednesday,7000
+2025-07-28,Travel,789.0,Credit Card,Bus,2025,7,Jul,Monday,10000
+2025-01-07,Shopping,1275.0,Debit Card,Accessories,2025,1,Jan,Tuesday,9000
+2025-06-04,Travel,1827.9,Debit Card,Cab,2025,6,Jun,Wednesday,10000
+2025-06-28,Groceries,2459.0,Upi,Vegetables,2025,6,Jun,Saturday,10000
+2025-08-27,Entertainment,1430.0,Debit Card,Concert,2025,8,Aug,Wednesday,7000
+2025-10-03,Shopping,5195.0,Debit Card,Shoes,2025,10,Oct,Friday,9000
+2025-01-11,Utilities,2469.0,Upi,Water Bill,2025,1,Jan,Saturday,6000
+2025-10-17,Groceries,962.0,Upi,Milk,2025,10,Oct,Friday,10000
+2025-08-04,Food,1005.0,Cash,Snacks,2025,8,Aug,Monday,12000
+2025-03-25,Entertainment,2240.0,Net Banking,Game,2025,3,Mar,Tuesday,7000
+2025-08-24,Utilities,2603.0,Upi,Internet Bill,2025,8,Aug,Sunday,6000
+2025-04-20,Healthcare,491.0,Upi,Checkup,2025,4,Apr,Sunday,5000
+2025-02-25,Food,1183.0,Debit Card,Dinner,2025,2,Feb,Tuesday,12000
+2025-02-18,Groceries,836.0,Upi,Supermarket,2025,2,Feb,Tuesday,10000
+2025-04-11,Groceries,1561.0,Upi,Essentials,2025,4,Apr,Friday,10000
+2025-12-10,Entertainment,276.0,Upi,Game,2025,12,Dec,Wednesday,7000
+2025-10-29,Education,2643.0,Upi,Stationery,2025,10,Oct,Wednesday,8000
+2025-09-23,Groceries,1647.0,Upi,Supermarket,2025,9,Sep,Tuesday,10000
+2025-12-21,Education,3683.0,Upi,Exam Fee,2025,12,Dec,Sunday,8000
+2025-05-25,Food,1188.0,Upi,Cafe,2025,5,May,Sunday,12000
+2025-11-09,Entertainment,1662.0,Cash,Game,2025,11,Nov,Sunday,7000
+2025-08-14,Entertainment,976.0,Upi,Movie,2025,8,Aug,Thursday,7000
+2025-06-25,Shopping,829.0,Credit Card,Online Shopping,2025,6,Jun,Wednesday,9000
+2025-04-16,Education,1794.0,Cash,Exam Fee,2025,4,Apr,Wednesday,8000
+2025-06-16,Groceries,239.0,Upi,Essentials,2025,6,Jun,Monday,10000
+2025-03-23,Groceries,1044.0,Credit Card,Essentials,2025,3,Mar,Sunday,10000
+2025-11-28,Utilities,1734.0,Credit Card,Electricity Bill,2025,11,Nov,Friday,6000
+2025-08-15,Food,147.0,Upi,Dinner,2025,8,Aug,Friday,12000
+2025-07-06,Groceries,2471.0,Upi,Vegetables,2025,7,Jul,Sunday,10000
+2025-12-31,Groceries,1048.0,Debit Card,Milk,2025,12,Dec,Wednesday,10000
+2025-03-18,Food,1116.0,Upi,Dinner,2025,3,Mar,Tuesday,12000
+2025-02-08,Groceries,1295.0,Upi,Supermarket,2025,2,Feb,Saturday,10000
+2025-07-06,Groceries,1645.0,Debit Card,Vegetables,2025,7,Jul,Sunday,10000
+2025-08-10,Entertainment,1674.0,Upi,Movie,2025,8,Aug,Sunday,7000
+2025-09-03,Entertainment,919.0,Upi,Movie,2025,9,Sep,Wednesday,7000
+2025-07-19,Shopping,2594.0,Credit Card,Clothes,2025,7,Jul,Saturday,9000
+2025-01-06,Food,1005.0,Upi,Lunch,2025,1,Jan,Monday,12000
+2025-03-17,Shopping,1126.0,Debit Card,Accessories,2025,3,Mar,Monday,9000
+2025-11-21,Recharge,801.0,Net Banking,DTH Recharge,2025,11,Nov,Friday,2000
+2025-10-14,Food,865.0,Upi,Dinner,2025,10,Oct,Tuesday,12000
+2025-01-13,Shopping,2986.0,Credit Card,Clothes,2025,1,Jan,Monday,9000
+2025-10-03,Shopping,3558.75,Debit Card,Shoes,2025,10,Oct,Friday,9000
+2025-09-30,Entertainment,1551.0,Net Banking,Movie,2025,9,Sep,Tuesday,7000
+2025-10-06,Groceries,527.0,Upi,Milk,2025,10,Oct,Monday,10000
+2025-04-21,Shopping,3046.0,Credit Card,Clothes,2025,4,Apr,Monday,9000
+2025-06-05,Shopping,2024.0,Upi,Shoes,2025,6,Jun,Thursday,9000
+2025-09-03,Education,1221.0,Upi,Course Fee,2025,9,Sep,Wednesday,8000
+2025-12-25,Utilities,512.0,Debit Card,Electricity Bill,2025,12,Dec,Thursday,6000
+2025-08-26,Travel,1267.0,Upi,Bus,2025,8,Aug,Tuesday,10000
+2025-04-04,Utilities,2147.0,Upi,Gas Bill,2025,4,Apr,Friday,6000
+2025-04-26,Food,242.0,Net Banking,Cafe,2025,4,Apr,Saturday,12000
+2025-12-30,Food,578.0,Upi,Dinner,2025,12,Dec,Tuesday,12000
+2025-11-09,Utilities,2855.0,Net Banking,Internet Bill,2025,11,Nov,Sunday,6000
+2025-01-01,Shopping,1367.0,Cash,Shoes,2025,1,Jan,Wednesday,9000
+2025-07-27,Groceries,1488.0,Upi,Supermarket,2025,7,Jul,Sunday,10000
+2025-08-25,Shopping,3251.0,Upi,Shoes,2025,8,Aug,Monday,9000
+2025-09-25,Entertainment,1544.0,Credit Card,Concert,2025,9,Sep,Thursday,7000
+2025-07-09,Healthcare,1182.0,Debit Card,Tests,2025,7,Jul,Wednesday,5000
+2025-12-17,Food,372.0,Upi,Cafe,2025,12,Dec,Wednesday,12000
+2025-08-09,Healthcare,2048.0,Upi,Tests,2025,8,Aug,Saturday,5000
+2025-02-25,Food,489.0,Upi,Snacks,2025,2,Feb,Tuesday,12000
+2025-07-11,Groceries,698.0,Upi,Vegetables,2025,7,Jul,Friday,10000
+2025-08-15,Food,238.0,Upi,Snacks,2025,8,Aug,Friday,12000
+2025-04-25,Shopping,1773.0,Credit Card,Accessories,2025,4,Apr,Friday,9000
+2025-12-25,Food,767.0,Credit Card,Lunch,2025,12,Dec,Thursday,12000
+2025-07-03,Groceries,1251.0,Debit Card,Essentials,2025,7,Jul,Thursday,10000
+2025-10-20,Utilities,2724.0,Upi,Water Bill,2025,10,Oct,Monday,6000
+2025-09-26,Entertainment,507.0,Credit Card,Movie,2025,9,Sep,Friday,7000
+2025-04-15,Food,799.0,Net Banking,Cafe,2025,4,Apr,Tuesday,12000
+2025-09-09,Education,1878.0,Upi,Stationery,2025,9,Sep,Tuesday,8000
+2025-10-11,Travel,1046.0,Cash,Cab,2025,10,Oct,Saturday,10000
+2025-07-27,Groceries,1122.0,Cash,Supermarket,2025,7,Jul,Sunday,10000
+2025-07-03,Travel,2669.0,Upi,Fuel,2025,7,Jul,Thursday,10000
+2025-01-25,Travel,2999.0,Upi,Train,2025,1,Jan,Saturday,10000
+2025-03-14,Food,1015.0,Debit Card,Cafe,2025,3,Mar,Friday,12000
+2025-07-30,Utilities,651.0,Debit Card,Water Bill,2025,7,Jul,Wednesday,6000
+2025-10-10,Entertainment,470.0,Upi,Movie,2025,10,Oct,Friday,7000
+2025-06-30,Food,261.0,Debit Card,Cafe,2025,6,Jun,Monday,12000
+2025-12-06,Recharge,239.0,Net Banking,DTH Recharge,2025,12,Dec,Saturday,2000
+2025-06-25,Utilities,2730.0,Cash,Water Bill,2025,6,Jun,Wednesday,6000
+2025-03-30,Entertainment,1801.0,Upi,Concert,2025,3,Mar,Sunday,7000
+2025-05-29,Utilities,1484.0,Debit Card,Gas Bill,2025,5,May,Thursday,6000
+2025-08-02,Shopping,2344.0,Upi,Shoes,2025,8,Aug,Saturday,9000
+2025-09-10,Entertainment,449.0,Upi,Subscription,2025,9,Sep,Wednesday,7000
+2025-10-29,Food,1148.0,Upi,Restaurant,2025,10,Oct,Wednesday,12000
+2025-03-11,Travel,2822.0,Cash,Flight,2025,3,Mar,Tuesday,10000
+2025-10-30,Groceries,670.0,Credit Card,Milk,2025,10,Oct,Thursday,10000
+2025-05-29,Groceries,938.0,Upi,Essentials,2025,5,May,Thursday,10000
+2025-07-11,Shopping,2286.0,Upi,Shoes,2025,7,Jul,Friday,9000
+2025-12-11,Rent,13347.0,Cash,Room Rent,2025,12,Dec,Thursday,14000
+2025-07-22,Healthcare,872.0,Debit Card,Checkup,2025,7,Jul,Tuesday,5000
+2025-08-25,Shopping,2016.0,Upi,Online Shopping,2025,8,Aug,Monday,9000
+2025-08-25,Food,969.0,Upi,Restaurant,2025,8,Aug,Monday,12000
+2025-02-28,Food,851.0,Debit Card,Dinner,2025,2,Feb,Friday,12000
+2025-11-03,Education,2511.0,Upi,Exam Fee,2025,11,Nov,Monday,8000
+2025-03-31,Healthcare,3064.0,Upi,Tests,2025,3,Mar,Monday,5000
+2025-08-08,Food,705.0,Upi,Cafe,2025,8,Aug,Friday,12000
+2025-07-03,Travel,823.0,Cash,Flight,2025,7,Jul,Thursday,10000
+2025-12-11,Travel,2377.35,Upi,Fuel,2025,12,Dec,Thursday,10000
+2025-04-21,Healthcare,2732.0,Upi,Tests,2025,4,Apr,Monday,5000
+2025-07-01,Food,504.0,Credit Card,Lunch,2025,7,Jul,Tuesday,12000
+2025-07-27,Food,107.0,Upi,Restaurant,2025,7,Jul,Sunday,12000
+2025-01-17,Recharge,701.0,Upi,Data Pack,2025,1,Jan,Friday,2000
+2025-12-03,Food,595.0,Upi,Lunch,2025,12,Dec,Wednesday,12000
+2025-01-14,Healthcare,1562.0,Upi,Tests,2025,1,Jan,Tuesday,5000
+2025-11-06,Travel,564.3,Upi,Fuel,2025,11,Nov,Thursday,10000
+2025-06-12,Food,1183.0,Cash,Cafe,2025,6,Jun,Thursday,12000
+2025-11-01,Travel,750.6,Upi,Train,2025,11,Nov,Saturday,10000
+2025-10-30,Education,3576.0,Upi,Course Fee,2025,10,Oct,Thursday,8000
+2025-07-17,Groceries,1671.0,Credit Card,Supermarket,2025,7,Jul,Thursday,10000
+2025-09-30,Groceries,1472.0,Credit Card,Vegetables,2025,9,Sep,Tuesday,10000
+2025-02-13,Shopping,3234.0,Upi,Accessories,2025,2,Feb,Thursday,9000
+2025-08-27,Healthcare,1303.0,Credit Card,Tests,2025,8,Aug,Wednesday,5000
+2025-04-10,Travel,1848.0,Upi,Flight,2025,4,Apr,Thursday,10000
+2025-12-26,Rent,12524.0,Upi,Room Rent,2025,12,Dec,Friday,14000
+2025-02-19,Groceries,1288.0,Upi,Supermarket,2025,2,Feb,Wednesday,10000
+2025-05-21,Food,925.0,Upi,Snacks,2025,5,May,Wednesday,12000
+2025-08-27,Food,907.0,Upi,Dinner,2025,8,Aug,Wednesday,12000
+2025-07-09,Travel,1561.0,Upi,Flight,2025,7,Jul,Wednesday,10000
+2025-12-18,Food,336.0,Credit Card,Lunch,2025,12,Dec,Thursday,12000
+2025-09-03,Travel,285.0,Upi,Bus,2025,9,Sep,Wednesday,10000
+2025-06-08,Entertainment,2448.0,Upi,Concert,2025,6,Jun,Sunday,7000
+2025-09-21,Shopping,3875.0,Upi,Accessories,2025,9,Sep,Sunday,9000
+2025-05-05,Groceries,1681.0,Upi,Milk,2025,5,May,Monday,10000
+2025-07-16,Recharge,984.0,Upi,Data Pack,2025,7,Jul,Wednesday,2000
+2025-06-20,Shopping,3010.0,Debit Card,Shoes,2025,6,Jun,Friday,9000
+2025-05-02,Travel,3632.85,Cash,Fuel,2025,5,May,Friday,10000
+2025-01-06,Shopping,587.0,Upi,Accessories,2025,1,Jan,Monday,9000
+2025-04-06,Entertainment,787.2,Upi,Game,2025,4,Apr,Sunday,7000
+2025-01-06,Rent,8671.0,Debit Card,Room Rent,2025,1,Jan,Monday,14000
+2025-11-19,Healthcare,3477.0,Cash,Medicine,2025,11,Nov,Wednesday,5000
+2025-04-06,Shopping,1775.0,Upi,Accessories,2025,4,Apr,Sunday,9000
+2025-08-02,Entertainment,1416.0,Upi,Game,2025,8,Aug,Saturday,7000
+2025-09-04,Utilities,1278.0,Upi,Water Bill,2025,9,Sep,Thursday,6000
+2025-01-03,Rent,13483.0,Upi,PG Rent,2025,1,Jan,Friday,14000
+2025-08-13,Groceries,1753.0,Upi,Vegetables,2025,8,Aug,Wednesday,10000
+2025-11-25,Recharge,890.0,Cash,Mobile Recharge,2025,11,Nov,Tuesday,2000
+2025-06-24,Food,1192.0,Upi,Restaurant,2025,6,Jun,Tuesday,12000
+2025-08-25,Groceries,694.0,Debit Card,Milk,2025,8,Aug,Monday,10000
+2025-11-10,Utilities,1105.0,Cash,Electricity Bill,2025,11,Nov,Monday,6000
+2025-01-25,Groceries,1557.0,Upi,Supermarket,2025,1,Jan,Saturday,10000
+2025-08-14,Recharge,877.0,Upi,DTH Recharge,2025,8,Aug,Thursday,2000
+2025-03-26,Shopping,3250.0,Upi,Online Shopping,2025,3,Mar,Wednesday,9000
+2025-03-05,Food,357.0,Net Banking,Cafe,2025,3,Mar,Wednesday,12000
+2025-02-23,Rent,11450.0,Upi,Room Rent,2025,2,Feb,Sunday,14000
+2025-01-18,Entertainment,682.0,Cash,Concert,2025,1,Jan,Saturday,7000
+2025-05-24,Healthcare,2609.0,Debit Card,Tests,2025,5,May,Saturday,5000
+2025-08-27,Travel,2501.0,Credit Card,Flight,2025,8,Aug,Wednesday,10000
+2025-11-29,Food,1098.0,Cash,Cafe,2025,11,Nov,Saturday,12000
+2025-11-11,Groceries,790.0,Upi,Essentials,2025,11,Nov,Tuesday,10000
+2025-07-10,Groceries,2102.0,Upi,Essentials,2025,7,Jul,Thursday,10000
+2025-01-12,Entertainment,340.0,Debit Card,Movie,2025,1,Jan,Sunday,7000
+2025-03-04,Food,352.0,Upi,Dinner,2025,3,Mar,Tuesday,12000
+2025-01-08,Rent,11956.0,Cash,PG Rent,2025,1,Jan,Wednesday,14000
+2025-12-15,Food,175.0,Upi,Cafe,2025,12,Dec,Monday,12000
+2025-03-12,Groceries,2228.0,Debit Card,Vegetables,2025,3,Mar,Wednesday,10000
+2025-10-20,Food,896.0,Upi,Dinner,2025,10,Oct,Monday,12000
+2025-10-02,Entertainment,660.0,Credit Card,Game,2025,10,Oct,Thursday,7000
+2025-06-14,Rent,13478.0,Upi,House Rent,2025,6,Jun,Saturday,14000
+2025-11-22,Entertainment,1030.0,Upi,Concert,2025,11,Nov,Saturday,7000
+2025-08-12,Healthcare,1083.0,Upi,Checkup,2025,8,Aug,Tuesday,5000
+2025-12-22,Recharge,129.0,Upi,DTH Recharge,2025,12,Dec,Monday,2000
+2025-02-03,Travel,2850.0,Upi,Fuel,2025,2,Feb,Monday,10000
+2025-12-22,Food,633.0,Upi,Dinner,2025,12,Dec,Monday,12000
+2025-11-25,Food,1110.0,Upi,Dinner,2025,11,Nov,Tuesday,12000
+2025-08-27,Groceries,347.0,Credit Card,Supermarket,2025,8,Aug,Wednesday,10000
+2025-02-19,Groceries,2073.0,Cash,Essentials,2025,2,Feb,Wednesday,10000
+2025-05-06,Entertainment,572.4,Credit Card,Movie,2025,5,May,Tuesday,7000
+2025-10-27,Entertainment,2025.0,Cash,Movie,2025,10,Oct,Monday,7000
+2025-04-16,Healthcare,1930.0,Net Banking,Tests,2025,4,Apr,Wednesday,5000
+2025-06-08,Food,483.0,Debit Card,Snacks,2025,6,Jun,Sunday,12000
+2025-07-08,Groceries,1562.0,Net Banking,Supermarket,2025,7,Jul,Tuesday,10000
+2025-11-18,Shopping,5727.5,Upi,Shoes,2025,11,Nov,Tuesday,9000
+2025-07-13,Shopping,2663.0,Credit Card,Online Shopping,2025,7,Jul,Sunday,9000
+2025-05-24,Entertainment,258.0,Upi,Movie,2025,5,May,Saturday,7000
+2025-04-17,Food,228.0,Upi,Snacks,2025,4,Apr,Thursday,12000
+2025-01-04,Food,405.0,Upi,Restaurant,2025,1,Jan,Saturday,12000
+2025-08-13,Education,4542.0,Net Banking,Books,2025,8,Aug,Wednesday,8000
+2025-02-16,Food,717.0,Debit Card,Cafe,2025,2,Feb,Sunday,12000
+2025-10-07,Entertainment,1331.0,Cash,Subscription,2025,10,Oct,Tuesday,7000
+2025-10-23,Travel,967.0,Credit Card,Fuel,2025,10,Oct,Thursday,10000
+2025-07-14,Shopping,311.0,Upi,Accessories,2025,7,Jul,Monday,9000
+2025-07-01,Rent,9009.0,Debit Card,PG Rent,2025,7,Jul,Tuesday,14000
+2025-11-12,Shopping,2971.25,Upi,Online Shopping,2025,11,Nov,Wednesday,9000
+2025-10-08,Education,5715.0,Upi,Stationery,2025,10,Oct,Wednesday,8000
+2025-10-25,Rent,11856.0,Credit Card,House Rent,2025,10,Oct,Saturday,14000
+2025-02-11,Entertainment,620.0,Credit Card,Movie,2025,2,Feb,Tuesday,7000
+2025-01-22,Utilities,684.0,Debit Card,Internet Bill,2025,1,Jan,Wednesday,6000
+2025-10-10,Healthcare,1876.0,Net Banking,Clinic Visit,2025,10,Oct,Friday,5000
+2025-03-30,Groceries,2259.0,Upi,Supermarket,2025,3,Mar,Sunday,10000
+2025-12-12,Education,4796.0,Credit Card,Books,2025,12,Dec,Friday,8000
+2025-08-14,Travel,1861.0,Cash,Flight,2025,8,Aug,Thursday,10000
+2025-03-07,Food,420.0,Credit Card,Dinner,2025,3,Mar,Friday,12000
+2025-06-08,Rent,11197.0,Upi,Room Rent,2025,6,Jun,Sunday,14000
+2025-01-12,Entertainment,2372.0,Cash,Movie,2025,1,Jan,Sunday,7000
+2025-04-20,Food,945.0,Debit Card,Cafe,2025,4,Apr,Sunday,12000
+2025-05-08,Utilities,2861.0,Upi,Gas Bill,2025,5,May,Thursday,6000
+2025-02-05,Entertainment,1908.0,Upi,Concert,2025,2,Feb,Wednesday,7000
+2025-05-07,Shopping,3195.0,Net Banking,Online Shopping,2025,5,May,Wednesday,9000
+2025-08-05,Recharge,195.0,Credit Card,Data Pack,2025,8,Aug,Tuesday,2000
+2025-10-21,Food,294.0,Upi,Snacks,2025,10,Oct,Tuesday,12000
+2025-05-03,Food,798.0,Net Banking,Snacks,2025,5,May,Saturday,12000
+2025-04-14,Education,4314.0,Cash,Course Fee,2025,4,Apr,Monday,8000
+2025-12-03,Utilities,2864.0,Upi,Gas Bill,2025,12,Dec,Wednesday,6000
+2025-01-15,Education,3972.0,Debit Card,Exam Fee,2025,1,Jan,Wednesday,8000
+2025-02-13,Utilities,1109.0,Upi,Internet Bill,2025,2,Feb,Thursday,6000
+2025-12-09,Travel,1032.75,Upi,Bus,2025,12,Dec,Tuesday,10000
+2025-12-19,Recharge,344.0,Credit Card,Mobile Recharge,2025,12,Dec,Friday,2000
+2025-03-24,Recharge,209.0,Cash,DTH Recharge,2025,3,Mar,Monday,2000
+2025-10-15,Education,1435.0,Debit Card,Stationery,2025,10,Oct,Wednesday,8000
+2025-10-18,Rent,6325.0,Debit Card,Room Rent,2025,10,Oct,Saturday,14000
+2025-10-05,Entertainment,2185.0,Credit Card,Game,2025,10,Oct,Sunday,7000
+2025-08-07,Shopping,1570.0,Upi,Online Shopping,2025,8,Aug,Thursday,9000
+2025-12-09,Food,707.0,Upi,Lunch,2025,12,Dec,Tuesday,12000
+2025-02-23,Groceries,1953.0,Cash,Supermarket,2025,2,Feb,Sunday,10000
+2025-02-15,Food,292.0,Upi,Snacks,2025,2,Feb,Saturday,12000
+2025-04-21,Groceries,328.0,Upi,Vegetables,2025,4,Apr,Monday,10000
+2025-12-06,Utilities,507.0,Upi,Internet Bill,2025,12,Dec,Saturday,6000
+2025-01-05,Rent,11744.0,Net Banking,Monthly Rent,2025,1,Jan,Sunday,14000
+2025-02-05,Rent,13794.0,Net Banking,Monthly Rent,2025,2,Feb,Wednesday,14000
+2025-03-05,Rent,10756.0,Net Banking,Monthly Rent,2025,3,Mar,Wednesday,14000
+2025-04-05,Rent,13594.0,Net Banking,Monthly Rent,2025,4,Apr,Saturday,14000
+2025-05-05,Rent,9644.0,Net Banking,Monthly Rent,2025,5,May,Monday,14000
+2025-06-05,Rent,12371.0,Net Banking,Monthly Rent,2025,6,Jun,Thursday,14000
+2025-07-05,Rent,11144.0,Net Banking,Monthly Rent,2025,7,Jul,Saturday,14000
+2025-08-05,Rent,13798.0,Net Banking,Monthly Rent,2025,8,Aug,Tuesday,14000
+2025-09-05,Rent,13891.0,Net Banking,Monthly Rent,2025,9,Sep,Friday,14000
+2025-10-05,Rent,8242.0,Net Banking,Monthly Rent,2025,10,Oct,Sunday,14000
+2025-11-05,Rent,12085.0,Net Banking,Monthly Rent,2025,11,Nov,Wednesday,14000
+2025-12-05,Rent,8170.0,Net Banking,Monthly Rent,2025,12,Dec,Friday,14000

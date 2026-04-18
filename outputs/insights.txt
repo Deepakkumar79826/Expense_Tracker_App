@@ -1,0 +1,15 @@
+Expense Tracker Insights Report
+========================================
+Total Spending: Rs. 2076769.55
+Average Transaction Amount: Rs. 2052.14
+Top Spending Category: Rent (Rs. 596952.0)
+Highest Spending Month: Mar (Rs. 263670.0)
+Most Used Payment Method: Upi
+Over-budget category-month cases: 101
+
+Examples of Over-budget Cases:
+- Apr | Education | Spend: Rs. 36018.0 | Budget: Rs. 8000
+- Apr | Food | Spend: Rs. 12888.0 | Budget: Rs. 12000
+- Apr | Groceries | Spend: Rs. 10961.0 | Budget: Rs. 10000
+- Apr | Healthcare | Spend: Rs. 15082.0 | Budget: Rs. 5000
+- Apr | Recharge | Spend: Rs. 4774.0 | Budget: Rs. 2000

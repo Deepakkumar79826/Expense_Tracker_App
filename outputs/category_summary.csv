@@ -1,0 +1,11 @@
+category,total_spend,avg_spend,transaction_count
+Rent,596952.0,10659.86,56
+Shopping,315858.75,2567.96,123
+Education,228504.0,3685.55,62
+Groceries,215347.0,1289.5,167
+Healthcare,149903.0,2053.47,73
+Entertainment,143139.8,1325.37,108
+Food,135569.0,664.55,204
+Travel,132819.0,1747.62,76
+Utilities,115887.0,1729.66,67
+Recharge,42790.0,563.03,76
