@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Expense Tracker App using Data Science
 
 ## Overview
@@ -215,3 +216,6 @@ I generated synthetic financial data, cleaned it using Pandas, engineered useful
 
 ## Author
 **Deepak Kumar**
+=======
+# Expense_Tracker_App
+>>>>>>> c8c91dcd315dab10bf3e5232cc2abd15d64aa62c
